@@ -1,4 +1,4 @@
-const DATA_FILE = ".json";
+const DATA_FILE = "ipe.json";
 
 let settings = {
   show_progress: true,
