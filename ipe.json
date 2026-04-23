@@ -6,7 +6,7 @@
     "show_progress": true
   },
   "questions": [
-{ 
+    { 
 "id":"tema1_q1", 
 "type":"single_choice", 
 "question":"¿Cómo se define el mercado de trabajo o mercado laboral?", 
@@ -505,11 +505,2906 @@
 "explanation":"La fuente define la resiliencia como ser capaz de recuperarse rápidamente de la adversidad y mantener una actitud positiva.", 
 "meta":{"original_question_number":50,"correct_letter":"B"}, 
 "correct_index":1 
-} 
-
-
-
-
-
-]
+},
+  {
+  "id":"tema2_q1",
+  "type":"single_choice",
+  "question":"Según la OMS, ¿cómo se define la salud?",
+  "options":["La mera ausencia de afecciones o enfermedades físicas.","El estado de bienestar físico, psíquico y social completo.","La capacidad de trabajar sin sufrir accidentes laborales.","El equilibrio biológico entre el trabajador y su salario."],
+  "correct_answer":"El estado de bienestar físico, psíquico y social completo.",
+  "explanation":"La fuente especifica que la OMS define la salud como el estado de bienestar físico, psíquico y social completo, y no meramente la ausencia de enfermedad. El desequilibrio en cualquiera de estos factores implica el quebranto de la salud.",
+  "meta":{"original_question_number":1,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema2_q2",
+  "type":"single_choice",
+  "question":"¿Cuál es la principal norma que regula en España lo relacionado con la seguridad en el trabajo?",
+  "options":["La Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales.","El Estatuto de los Trabajadores en su artículo 1.","La Ley de Procedimiento Administrativo de 1995.","El Código Civil español en materia de contratos."],
+  "correct_answer":"La Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales.",
+  "explanation":"El material identifica a la Ley de Prevención de Riesgos Laborales (LPRL) de 8 de noviembre de 1995 como la norma principal en España.",
+  "meta":{"original_question_number":2,"correct_letter":"A"},
+  "correct_index":0
+  },
+  {
+  "id":"tema2_q3",
+  "type":"single_choice",
+  "question":"¿Qué obligación tienen todas las empresas respecto a la tecnología según la Ley Orgánica 3/2018?",
+  "options":["Garantizar que todos los trabajadores tengan un móvil de empresa.","Garantizar el derecho a la desconexión digital.","Permitir el teletrabajo al 100% de la plantilla.","Prohibir el uso de redes sociales durante el descanso."],
+  "correct_answer":"Garantizar el derecho a la desconexión digital.",
+  "explanation":"La fuente indica que todas las empresas y organizaciones tienen la obligación de garantizar el derecho a la desconexión digital de todas las personas, según la Ley Orgánica 3/2018 y la Ley 10/2021.",
+  "meta":{"original_question_number":3,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema2_q4",
+  "type":"single_choice",
+  "question":"¿Cómo se define un daño profesional según el material de estudio?",
+  "options":["Cualquier golpe sufrido fuera del horario laboral.","La materialización de un riesgo concreto que ocasiona un deterioro en la salud provocado por el trabajo.","El pago de una indemnización por despido improcedente.","La pérdida de beneficios económicos de la empresa por baja médica."],
+  "correct_answer":"La materialización de un riesgo concreto que ocasiona un deterioro en la salud provocado por el trabajo.",
+  "explanation":"Se define el daño profesional como la materialización de un riesgo que ocasiona un deterioro en la salud del trabajador y que es provocado por el mismo trabajo.",
+  "meta":{"original_question_number":4,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema2_q5",
+  "type":"single_choice",
+  "question":"¿Cuál de estos daños se clasifica como una 'patología inespecífica'?",
+  "options":["Accidente de trabajo.","Enfermedad profesional.","El estrés.","Mobbing."],
+  "correct_answer":"El estrés.",
+  "explanation":"El material clasifica la fatiga profesional, la insatisfacción laboral, el estrés y el envejecimiento prematuro como patologías inespecíficas.",
+  "meta":{"original_question_number":5,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema2_q6",
+  "type":"single_choice",
+  "question":"¿Qué caracteriza al Mobbing o acoso moral según la definición de Leymann?",
+  "options":["Un accidente puntual con lesiones físicas graves.","Comportamientos de violencia psicológica ejercida de forma sistemática durante al menos seis meses.","La falta de formación técnica para manejar máquinas peligrosas.","El deseo de aprender nuevas habilidades tecnológicas."],
+  "correct_answer":"Comportamientos de violencia psicológica ejercida de forma sistemática durante al menos seis meses.",
+  "explanation":"Leymann define el Mobbing como comportamientos de violencia psicológica ejercida de forma sistemática, al menos una vez por semana y durante más de seis meses.",
+  "meta":{"original_question_number":6,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema2_q7",
+  "type":"single_choice",
+  "question":"¿En qué tipo de profesiones se suele producir principalmente el Síndrome de Burnout?",
+  "options":["Profesiones de construcción y minería.","Profesiones de ayuda (profesores, personal sanitario, asistentes sociales).","Trabajos administrativos sin contacto con el público.","Puestos de alta dirección en empresas tecnológicas."],
+  "correct_answer":"Profesiones de ayuda (profesores, personal sanitario, asistentes sociales).",
+  "explanation":"El material señala que el Burnout o síndrome del quemado se suele producir en profesiones que implican un trabajo en contacto con personas (sujetos de ayuda).",
+  "meta":{"original_question_number":7,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema2_q8",
+  "type":"single_choice",
+  "question":"¿Qué norma define legalmente la enfermedad profesional en España?",
+  "options":["El Código Penal.","La Ley General de la Seguridad Social mediante el cuadro legal del RD 1299/2006.","La Ley de Contratos del Sector Público.","La Constitución Española de 1978."],
+  "correct_answer":"La Ley General de la Seguridad Social mediante el cuadro legal del RD 1299/2006.",
+  "explanation":"La enfermedad profesional se define como la contraída a consecuencia del trabajo por cuenta ajena en las actividades especificadas en el cuadro legal del Real Decreto 1299/2006.",
+  "meta":{"original_question_number":8,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema2_q9",
+  "type":"single_choice",
+  "question":"¿A qué grupo pertenecen las enfermedades profesionales causadas por agentes biológicos como la hepatitis?",
+  "options":["Grupo 1.","Grupo 2.","Grupo 3.","Grupo 4."],
+  "correct_answer":"Grupo 3.",
+  "explanation":"Según la clasificación, el Grupo 3 engloba las enfermedades profesionales causadas por agentes biológicos (paludismo, legionella, hepatitis, etc.).",
+  "meta":{"original_question_number":9,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema2_q10",
+  "type":"single_choice",
+  "question":"¿Qué enfermedad se cita como ejemplo del Grupo 4 (inhalación de sustancias)?",
+  "options":["Sordera profesional.","Silicosis.","Dermatitis.","Conjuntivitis."],
+  "correct_answer":"Silicosis.",
+  "explanation":"El material incluye la silicosis y el asbestosis dentro del Grupo 4 de enfermedades profesionales causadas por inhalación de sustancias.",
+  "meta":{"original_question_number":10,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema2_q11",
+  "type":"single_choice",
+  "question":"¿Qué es un factor de riesgo?",
+  "options":["La lesión física ya producida.","Una condición potencialmente productora de daño (antecedente inmediato).","El seguro que paga la empresa por accidentes.","La formación recibida por el trabajador."],
+  "correct_answer":"Una condición potencialmente productora de daño (antecedente inmediato).",
+  "explanation":"La fuente define el factor de riesgo como una condición potencialmente productora de daño, es decir, el antecedente inmediato del daño o la causa que lo produce.",
+  "meta":{"original_question_number":11,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema2_q12",
+  "type":"single_choice",
+  "question":"¿Cuál de estos sectores presentó mayor índice de incidencia en accidentes de trabajo en 2021 según el material?",
+  "options":["Servicios.","Agrario.","Industria.","Construcción."],
+  "correct_answer":"Construcción.",
+  "explanation":"La infografía del INSST muestra que los trabajadores de la construcción son los que presentan mayor índice de incidencia (6.316,0).",
+  "meta":{"original_question_number":12,"correct_letter":"D"},
+  "correct_index":3
+  },
+  {
+  "id":"tema2_q13",
+  "type":"single_choice",
+  "question":"¿Cuál es el factor determinante de la gravedad de una descarga eléctrica?",
+  "options":["El voltaje o tensión únicamente.","La intensidad de la corriente.","El color del cable.","La marca de la instalación."],
+  "correct_answer":"La intensidad de la corriente.",
+  "explanation":"El material de autoevaluación confirma que la intensidad es el factor que determina la gravedad de una descarga eléctrica.",
+  "meta":{"original_question_number":13,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema2_q14",
+  "type":"single_choice",
+  "question":"En la clasificación de incendios, ¿qué combustible define a la Clase A?",
+  "options":["Líquidos inflamables como gasolina.","Combustibles sólidos de naturaleza orgánica (madera, papel).","Gases inflamables como butano.","Metales reactivos como el litio."],
+  "correct_answer":"Combustibles sólidos de naturaleza orgánica (madera, papel).",
+  "explanation":"La Clase A se refiere a combustibles sólidos, generalmente de naturaleza orgánica, cuya combustión deja residuos sólidos.",
+  "meta":{"original_question_number":14,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema2_q15",
+  "type":"single_choice",
+  "question":"¿Qué técnica de prevención se encarga de evitar enfermedades profesionales por agentes químicos, físicos o biológicos?",
+  "options":["Seguridad en el Trabajo.","Higiene Industrial.","Ergonomía.","Psicosociología aplicada."],
+  "correct_answer":"Higiene Industrial.",
+  "explanation":"La Higiene Industrial es la técnica que tiene como objeto evitar la aparición de enfermedades profesionales derivadas de agentes físicos, químicos y biológicos.",
+  "meta":{"original_question_number":15,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema2_q16",
+  "type":"single_choice",
+  "question":"¿Qué forma de energía produce el ruido y las vibraciones?",
+  "options":["Energía térmica.","Energía electromagnética.","Energía mecánica.","Energía nuclear."],
+  "correct_answer":"Energía mecánica.",
+  "explanation":"El material clasifica el ruido y las vibraciones como manifestaciones de energía mecánica.",
+  "meta":{"original_question_number":16,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema2_q17",
+  "type":"single_choice",
+  "question":"Según el RD 486/1997, ¿cuál es el rango de temperatura legal para trabajos sedentarios de oficina?",
+  "options":["Entre 14 y 25 °C.","Entre 20 y 30 °C.","Entre 17 y 27 °C.","Entre 10 y 20 °C."],
+  "correct_answer":"Entre 17 y 27 °C.",
+  "explanation":"La tabla de condiciones termohigrométricas especifica que para trabajos sedentarios propios de oficina la temperatura debe estar entre 17 y 27 °C.",
+  "meta":{"original_question_number":17,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema2_q18",
+  "type":"single_choice",
+  "question":"¿Cuál es el límite legal de humedad relativa en los lugares de trabajo?",
+  "options":["Siempre el 100%.","Entre el 30 y el 70%.","Mínimo 80%.","Máximo 20%."],
+  "correct_answer":"Entre el 30 y el 70%.",
+  "explanation":"El material indica que la humedad relativa debe estar comprendida entre el 30 y el 70%.",
+  "meta":{"original_question_number":18,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema2_q19",
+  "type":"single_choice",
+  "question":"¿Qué nivel de iluminación (lux) se exige para tareas de muy alta exigencia visual como joyería?",
+  "options":["100 lux.","200 lux.","500 lux.","1000 lux."],
+  "correct_answer":"1000 lux.",
+  "explanation":"Para tareas de muy alta exigencia visual (joyería, relojería) se requieren 1000 lux.",
+  "meta":{"original_question_number":19,"correct_letter":"D"},
+  "correct_index":3
+  },
+  {
+  "id":"tema2_q20",
+  "type":"single_choice",
+  "question":"¿Cuál es el nivel mínimo de iluminación para locales de uso ocasional?",
+  "options":["25 lux.","50 lux.","100 lux.","500 lux."],
+  "correct_answer":"50 lux.",
+  "explanation":"La normativa indica 50 lux para locales de uso ocasional.",
+  "meta":{"original_question_number":20,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema2_q21",
+  "type":"single_choice",
+  "question":"¿Qué son las radiaciones ionizantes según la autoevaluación?",
+  "options":["Ondas de baja frecuencia producidas por radios.","Ondas de alta frecuencia con gran poder energético, invisibles y muy perjudiciales.","Luz visible de los fluorescentes comunes.","Radiaciones que solo existen en el exterior con el sol."],
+  "correct_answer":"Ondas de alta frecuencia con gran poder energético, invisibles y muy perjudiciales.",
+  "explanation":"Se definen como ondas de alta frecuencia con gran poder energético, invisibles y muy perjudiciales para la salud.",
+  "meta":{"original_question_number":21,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema2_q22",
+  "type":"single_choice",
+  "question":"¿Cuál es un ejemplo de radiación NO ionizante?",
+  "options":["Rayos X.","Rayos gamma.","Radiación Ultravioleta (fotocopiadoras).","Partículas alfa."],
+  "correct_answer":"Radiación Ultravioleta (fotocopiadoras).",
+  "explanation":"El material lista la radiación ultravioleta de fotocopiadoras como radiación no ionizante.",
+  "meta":{"original_question_number":22,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema2_q23",
+  "type":"single_choice",
+  "question":"¿A qué se refiere el término VLA en el contexto de agentes químicos?",
+  "options":["Velocidad Laboral Autorizada.","Valor Límite Ambiental.","Vigilancia de la Libertad Administrativa.","Variación del Lugar de Almacenamiento."],
+  "correct_answer":"Valor Límite Ambiental.",
+  "explanation":"VLA significa Valor Límite Ambiental, conforme al documento de límites de exposición profesional.",
+  "meta":{"original_question_number":23,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema2_q24",
+  "type":"single_choice",
+  "question":"¿Qué documento debe ser proporcionado por el fabricante para informar sobre los riesgos de un producto químico?",
+  "options":["El contrato de trabajo.","La Ficha de Datos de Seguridad (FDS).","El carnet de conducir.","Un folleto publicitario."],
+  "correct_answer":"La Ficha de Datos de Seguridad (FDS).",
+  "explanation":"Las medidas preventivas incluyen proporcionar al trabajador la información derivada de las fichas de datos de seguridad (FDS) proporcionadas por el fabricante.",
+  "meta":{"original_question_number":24,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema2_q25",
+  "type":"single_choice",
+  "question":"Si una sustancia química produce una quemadura inmediata al contacto con la piel, el efecto es:",
+  "options":["General.","Acumulativo.","Local.","Sistémico."],
+  "correct_answer":"Local.",
+  "explanation":"Los efectos locales aparecen en el lugar de contacto del tóxico con el cuerpo, como una quemadura por ácido fuerte.",
+  "meta":{"original_question_number":25,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema2_q26",
+  "type":"single_choice",
+  "question":"¿Qué tipo de agente biológico necesita de un huésped para reproducirse?",
+  "options":["Las bacterias.","Los virus.","Los hongos.","Los gusanos."],
+  "correct_answer":"Los virus.",
+  "explanation":"Los virus son organismos de estructura muy sencilla que para reproducirse necesitan de un huésped.",
+  "meta":{"original_question_number":26,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema2_q27",
+  "type":"single_choice",
+  "question":"¿Qué es un agente biológico de Grupo 1 según el RD 664/97?",
+  "options":["Uno que causa enfermedades graves sin tratamiento.","Uno que resulta poco probable que cause una enfermedad en el ser humano.","Un virus que se propaga a toda la colectividad.","Una bacteria que solo afecta a los animales."],
+  "correct_answer":"Uno que resulta poco probable que cause una enfermedad en el ser humano.",
+  "explanation":"El Grupo 1 incluye agentes que resulta poco probable que causen una enfermedad en el ser humano.",
+  "meta":{"original_question_number":27,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema2_q28",
+  "type":"single_choice",
+  "question":"¿Cuál es la característica del agente biológico de Grupo 4?",
+  "options":["No causa enfermedad.","Causa enfermedad grave, pero no se propaga.","Causa enfermedad grave, tiene muchas probabilidades de propagarse y no hay tratamiento eficaz.","Tiene tratamiento eficaz y vacuna obligatoria."],
+  "correct_answer":"Causa enfermedad grave, tiene muchas probabilidades de propagarse y no hay tratamiento eficaz.",
+  "explanation":"El Grupo 4 causa enfermedad grave, supone serio peligro, tiene muchas probabilidades de propagación y generalmente no existe profilaxis o tratamiento eficaz.",
+  "meta":{"original_question_number":28,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema2_q29",
+  "type":"single_choice",
+  "question":"¿Qué es la carga mental según la definición técnica?",
+  "options":["El peso físico de las cajas que mueve un operario.","El conjunto de requerimientos psíquicos a los que se ve sometido el trabajador.","La cantidad de horas extras pagadas a final de mes.","El número de compañeros en el departamento."],
+  "correct_answer":"El conjunto de requerimientos psíquicos a los que se ve sometido el trabajador.",
+  "explanation":"La carga mental se define como el conjunto de requerimientos psíquicos a los que se ve sometido el trabajador en su trabajo diario.",
+  "meta":{"original_question_number":29,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema2_q30",
+  "type":"single_choice",
+  "question":"En el diseño de un puesto de trabajo, ¿qué posición es preferible?",
+  "options":["Trabajo sentado todo el tiempo.","Trabajo de pie todo el tiempo.","Alternar la posición de pie y sentado.","Trabajo tumbado en superficies blandas."],
+  "correct_answer":"Alternar la posición de pie y sentado.",
+  "explanation":"El material afirma que la posición más adecuada es la del trabajo de pie y sentado alternativamente.",
+  "meta":{"original_question_number":30,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema2_q31",
+  "type":"single_choice",
+  "question":"¿Qué riesgos destaca el material por el uso de pantallas de visualización de datos (PVD)?",
+  "options":["Cortes y atrapamientos metálicos.","Fatiga mental, trastornos musculoesqueléticos y fatiga visual.","Riesgo de incendio por explosión de batería únicamente.","Sordera profesional inmediata."],
+  "correct_answer":"Fatiga mental, trastornos musculoesqueléticos y fatiga visual.",
+  "explanation":"El uso de PVD entraña riesgos destacados como fatiga mental, trastornos musculoesqueléticos y fatiga visual.",
+  "meta":{"original_question_number":31,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema2_q32",
+  "type":"single_choice",
+  "question":"¿Dentro de qué tipo de factores psicosociales se incluye la 'ambigüedad de rol'?",
+  "options":["Cultura organizacional.","Relaciones interpersonales.","Rol.","Interacción casa-trabajo."],
+  "correct_answer":"Rol.",
+  "explanation":"La ambigüedad o conflicto de roles y la responsabilidad sobre las personas se incluyen en el factor psicosocial de 'Rol'.",
+  "meta":{"original_question_number":32,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema2_q33",
+  "type":"single_choice",
+  "question":"¿Qué método se menciona para autoevaluar trastornos por riesgos psicosociales?",
+  "options":["Método Myers-Briggs.","Método Istas 21 (CoPsoQ).","Método Wallace.","Método Toyota."],
+  "correct_answer":"Método Istas 21 (CoPsoQ).",
+  "explanation":"El material propone el cuestionario Método Istas 21 (CoPsoQ) para autoevaluar trastornos debidos a riesgos psicosociales.",
+  "meta":{"original_question_number":33,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema2_q34",
+  "type":"single_choice",
+  "question":"¿Qué causa el envejecimiento prematuro según la descripción de patologías inespecíficas?",
+  "options":["La falta de luz natural únicamente.","Una fatiga crónica acumulada que acelera el desgaste biológico.","Trabajar solo 4 horas al día.","El uso de guantes protectores."],
+  "correct_answer":"Una fatiga crónica acumulada que acelera el desgaste biológico.",
+  "explanation":"Se describe como un fenómeno provocado por fatiga crónica acumulada que acelera el envejecimiento fisiológico y no se recupera plenamente con descanso.",
+  "meta":{"original_question_number":34,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema2_q35",
+  "type":"single_choice",
+  "question":"¿Cuál es el valor límite de ruido a partir del cual la OMS recomienda protectores auditivos?",
+  "options":["40 decibelios.","65 decibelios.","100 decibelios.","137 decibelios."],
+  "correct_answer":"65 decibelios.",
+  "explanation":"El material menciona que la OMS establece los 65 decibelios como límite a partir del cual se recomienda usar protectores.",
+  "meta":{"original_question_number":35,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema2_q36",
+  "type":"single_choice",
+  "question":"¿Qué factor subjetivo influye en el confort térmico?",
+  "options":["La temperatura del aire.","La ropa que lleva puesta el trabajador.","La edad y constitución física del individuo.","La velocidad del viento en el local."],
+  "correct_answer":"La edad y constitución física del individuo.",
+  "explanation":"Los factores subjetivos son propios de cada individuo, como la edad, constitución física y estado de salud.",
+  "meta":{"original_question_number":36,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema2_q37",
+  "type":"single_choice",
+  "question":"¿Cómo se define un equipo de trabajo?",
+  "options":["Un grupo de personas que trabajan juntas.","Cualquier máquina, aparato, instrumento o instalación utilizada en el trabajo.","El sindicato que representa a los empleados.","El uniforme oficial de la empresa."],
+  "correct_answer":"Cualquier máquina, aparato, instrumento o instalación utilizada en el trabajo.",
+  "explanation":"La fuente define equipos de trabajo como cualquier máquina, aparato, instrumento o instalación utilizada en el trabajo.",
+  "meta":{"original_question_number":37,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema2_q38",
+  "type":"single_choice",
+  "question":"¿Qué indica el pictograma de seguridad química en las etiquetas?",
+  "options":["El precio del producto.","Los peligros que pueden derivarse de su utilización.","La fecha de caducidad únicamente.","El nombre del director de la fábrica."],
+  "correct_answer":"Los peligros que pueden derivarse de su utilización.",
+  "explanation":"Los pictogramas en el etiquetado informan de los peligros que pueden derivarse de la utilización del producto químico.",
+  "meta":{"original_question_number":38,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema2_q39",
+  "type":"single_choice",
+  "question":"¿Qué tipo de organismo es una bacteria?",
+  "options":["Un parásito que necesita siempre un huésped.","Un microorganismo unicelular que puede vivir en un medio sin necesidad de huésped.","Un organismo vegetal pluricelular.","Un animal vertebrado pequeño."],
+  "correct_answer":"Un microorganismo unicelular que puede vivir en un medio sin necesidad de huésped.",
+  "explanation":"Las bacterias se definen como microorganismos unicelulares que pueden vivir en un medio sin necesidad de un huésped.",
+  "meta":{"original_question_number":39,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema2_q40",
+  "type":"single_choice",
+  "question":"¿Qué es el SGA en materia de productos químicos?",
+  "options":["Servicio de Gestión de Almacenes.","Sistema Globalmente Armonizado para clasificación y etiquetado.","Seguro General de Accidentes.","Sociedad de Grandes Agricultores."],
+  "correct_answer":"Sistema Globalmente Armonizado para clasificación y etiquetado.",
+  "explanation":"El SGA permite un marco común y coherente a nivel mundial para la clasificación y comunicación de información sobre productos químicos.",
+  "meta":{"original_question_number":40,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema2_q41",
+  "type":"single_choice",
+  "question":"¿Qué dolencia se incluye como ejemplo de enfermedad del Grupo 2 (agentes físicos)?",
+  "options":["Hepatitis B.","Nódulos en las cuerdas vocales.","Silicosis.","Tuberculosis."],
+  "correct_answer":"Nódulos en las cuerdas vocales.",
+  "explanation":"El Grupo 2 incluye enfermedades causadas por agentes físicos como los nódulos en las cuerdas vocales y tendinitis.",
+  "meta":{"original_question_number":41,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema2_q42",
+  "type":"single_choice",
+  "question":"Para mejorar el orden y limpieza, ¿qué acción NO es recomendable?",
+  "options":["Almacenar las herramientas tras su uso.","Sancionar a los trabajadores que no se impliquen.","Impartir formación sobre mantenimiento del orden.","Comprar contenedores para reciclaje."],
+  "correct_answer":"Sancionar a los trabajadores que no se impliquen.",
+  "explanation":"La autoevaluación indica que sancionar no es recomendable; es mejor dar formación y medios adecuados.",
+  "meta":{"original_question_number":42,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema2_q43",
+  "type":"single_choice",
+  "question":"¿Cuál es un factor intrínseco adicional en los riesgos ambientales?",
+  "options":["La nutrición.","La duración de la exposición.","La edad y características físicas de la persona.","La concentración del contaminante."],
+  "correct_answer":"La edad y características físicas de la persona.",
+  "explanation":"Los factores intrínsecos son aquellos sobre los que el ser humano no ejerce control, como la edad o características físicas.",
+  "meta":{"original_question_number":43,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema2_q44",
+  "type":"single_choice",
+  "question":"¿Qué efecto tóxico es aquel que se distribuye por todo el organismo?",
+  "options":["Efecto local.","Efecto general o sistémico.","Efecto nulo.","Efecto físico únicamente."],
+  "correct_answer":"Efecto general o sistémico.",
+  "explanation":"A diferencia del local, el efecto general o sistémico es el que se manifiesta de forma distribuida por el cuerpo.",
+  "meta":{"original_question_number":44,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema2_q45",
+  "type":"single_choice",
+  "question":"¿Qué agente biológico puede transmitir la 'tiña'?",
+  "options":["Los virus.","Las bacterias.","Los hongos.","Los protozoos."],
+  "correct_answer":"Los hongos.",
+  "explanation":"Los hongos son microorganismos vegetales parasitarios que pueden producir micosis y tiña.",
+  "meta":{"original_question_number":45,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema2_q46",
+  "type":"single_choice",
+  "question":"¿Cuál es un factor de éxito recomendado en la prevención del Mobbing?",
+  "options":["Ignorar las quejas para no darles importancia.","Fomentar la competitividad extrema entre compañeros.","Desarrollar reglas claras sobre resolución de conflictos que garanticen el anonimato.","Obligar a todos los empleados a comer juntos."],
+  "correct_answer":"Desarrollar reglas claras sobre resolución de conflictos que garanticen el anonimato.",
+  "explanation":"El material sugiere desarrollar reglas claras de resolución de conflictos que garanticen el derecho a la queja y al anonimato.",
+  "meta":{"original_question_number":46,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema2_q47",
+  "type":"single_choice",
+  "question":"¿Qué porcentaje de casos de asma se consideran atribuibles al lugar de trabajo según el material?",
+  "options":["El 5%.","El 10%.","El 25%.","El 50%."],
+  "correct_answer":"El 25%.",
+  "explanation":"El material señala en el apartado '¿Sabías que?' que el 25% de los casos de asma son atribuibles al lugar de trabajo.",
+  "meta":{"original_question_number":47,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema2_q48",
+  "type":"single_choice",
+  "question":"¿Cuál de los siguientes NO es un elemento necesario para que se produzca fuego (triángulo del fuego)?",
+  "options":["Combustible.","Comburente (oxígeno).","Calor (energía de activación).","Nitrógeno puro."],
+  "correct_answer":"Nitrógeno puro.",
+  "explanation":"El triángulo del fuego está formado por combustible, comburente y calor.",
+  "meta":{"original_question_number":48,"correct_letter":"D"},
+  "correct_index":3
+  },
+  {
+  "id":"tema2_q49",
+  "type":"single_choice",
+  "question":"¿Cómo se define el estrés térmico?",
+  "options":["La temperatura ideal de confort.","La presión que ejerce el ambiente sobre el sistema de regulación de temperatura del cuerpo.","Un tipo de radiación ionizante.","La falta de iluminación en el puesto."],
+  "correct_answer":"La presión que ejerce el ambiente sobre el sistema de regulación de temperatura del cuerpo.",
+  "explanation":"El estrés térmico es la presión que el ambiente térmico ejerce sobre el sistema de autorregulación del cuerpo.",
+  "meta":{"original_question_number":49,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema2_q50",
+  "type":"single_choice",
+  "question":"¿Cuál es el objetivo fundamental de la Ergonomía y la Psicosociología?",
+  "options":["Maximizar el beneficio económico a cualquier coste.","Adaptar el puesto de trabajo a las características del operador.","Eliminar todos los sindicatos de la empresa.","Sustituir a los trabajadores por robots."],
+  "correct_answer":"Adaptar el puesto de trabajo a las características del operador.",
+  "explanation":"Uno de los objetivos principales de estas disciplinas es adaptar el puesto de trabajo a las características del operador.",
+  "meta":{"original_question_number":50,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema3_q1",
+  "type":"single_choice",
+  "question":"¿En qué capítulo de la Ley de Prevención de Riesgos Laborales (LPRL) se regulan los derechos y obligaciones en materia preventiva?",
+  "options":["Capítulo I","Capítulo II","Capítulo III","Capítulo IV"],
+  "correct_answer":"Capítulo III",
+  "explanation":"Según la fuente IPEI03, los derechos y deberes en materia de prevención de riesgos laborales se fundamentan en el Capítulo III de la LPRL 31/1995.",
+  "meta":{"original_question_number":1,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema3_q2",
+  "type":"single_choice",
+  "question":"¿Cuál de las siguientes es una obligación básica del empresario en materia de prevención?",
+  "options":["Informar de situaciones de riesgo de sus compañeros.","Garantizar la seguridad y salud de los trabajadores a su servicio.","Utilizar correctamente los medios de protección.","Pagar las multas de la Inspección de Trabajo de forma voluntaria."],
+  "correct_answer":"Garantizar la seguridad y salud de los trabajadores a su servicio.",
+  "explanation":"La fuente especifica en el esquema de derechos y deberes que una de las obligaciones principales del empresario es garantizar la seguridad y la salud mediante la evaluación, planes de emergencia e información.",
+  "meta":{"original_question_number":2,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema3_q3",
+  "type":"single_choice",
+  "question":"¿Qué debe hacer un trabajador ante una situación de riesgo grave e inminente detectada en su puesto?",
+  "options":["Esperar a la revisión trimestral del Comité de Seguridad.","Informar de inmediato a su superior jerárquico.","Continuar trabajando si el empresario no le ha dado instrucciones contrarias.","Llamar directamente a la Guardia Civil."],
+  "correct_answer":"Informar de inmediato a su superior jerárquico.",
+  "explanation":"La autoevaluación y la teoría del tema indican que ante cualquier situación de riesgo, el trabajador tiene el deber de informar a su superior de manera inmediata.",
+  "meta":{"original_question_number":3,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema3_q4",
+  "type":"single_choice",
+  "question":"Respecto a los equipos de protección individual (EPI), ¿quién tiene la obligación legal de facilitarlos gratuitamente?",
+  "options":["Los trabajadores mediante acuerdo con el sindicato.","El empresario.","El Servicio de Prevención Ajeno.","El Ministerio de Trabajo."],
+  "correct_answer":"El empresario.",
+  "explanation":"El material aclara que es un deber de la empresa proporcionar los equipos de protección individual necesarios para que el trabajador desempeñe su labor de forma segura.",
+  "meta":{"original_question_number":4,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema3_q5",
+  "type":"single_choice",
+  "question":"¿Qué colectivo se considera 'especialmente sensible' y requiere medidas específicas de protección por parte del empresario?",
+  "options":["Trabajadores con más de 10 años de antigüedad.","Trabajadores con discapacidad física, psíquica o sensorial reconocida.","Personal de alta dirección únicamente.","Trabajadores que no han superado el periodo de prueba."],
+  "correct_answer":"Trabajadores con discapacidad física, psíquica o sensorial reconocida.",
+  "explanation":"La sección 1.1.1 del PDF detalla que el empresario debe garantizar la protección específica de trabajadores que por su estado biológico o discapacidad reconocida sean sensibles a los riesgos.",
+  "meta":{"original_question_number":5,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema3_q6",
+  "type":"single_choice",
+  "question":"¿Cuál de estos niveles formativos NO corresponde a la clasificación de los técnicos PRL según el RSP?",
+  "options":["Nivel Básico.","Nivel Intermedio.","Nivel Avanzado.","Nivel Superior."],
+  "correct_answer":"Nivel Avanzado.",
+  "explanation":"El Reglamento de los Servicios de Prevención (RSP) establece tres niveles de cualificación: básico, intermedio y superior.",
+  "meta":{"original_question_number":6,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema3_q7",
+  "type":"single_choice",
+  "question":"¿En qué caso una empresa debe constituir obligatoriamente un Servicio de Prevención Propio (SPP)?",
+  "options":["Siempre que tenga más de 50 trabajadores.","Si tiene más de 500 trabajadores.","Solo si se dedica a la fabricación de papel.","Si tiene entre 10 y 25 trabajadores y el empresario asume la prevención."],
+  "correct_answer":"Si tiene más de 500 trabajadores.",
+  "explanation":"La normativa especifica que el SPP es obligatorio cuando la empresa cuenta con más de 500 trabajadores (o más de 250 en actividades de especial peligrosidad).",
+  "meta":{"original_question_number":7,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema3_q8",
+  "type":"single_choice",
+  "question":"Una empresa de 300 trabajadores dedicada a sondeos y prospecciones (actividad de especial peligrosidad) debe:",
+  "options":["Recurrir únicamente a un servicio de prevención ajeno.","Constituir un servicio de prevención propio.","Designar a un solo trabajador voluntario.","Hacer que el empresario asuma personalmente todas las funciones."],
+  "correct_answer":"Constituir un servicio de prevención propio.",
+  "explanation":"Según la autoevaluación del tema, al ser una actividad de especial peligrosidad (Anexo I del RSP) y superar los 250 empleados, la empresa está obligada a constituir un SPP.",
+  "meta":{"original_question_number":8,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema3_q9",
+  "type":"single_choice",
+  "question":"¿Quiénes forman el Comité de Seguridad y Salud?",
+  "options":["Los Delegados de Prevención y el Empresario/representantes en igual número.","Solo los trabajadores que hayan realizado el curso de nivel básico.","El técnico del Servicio de Prevención Ajeno y la dirección.","Exclusivamente los Delegados de Personal de la empresa."],
+  "correct_answer":"Los Delegados de Prevención y el Empresario/representantes en igual número.",
+  "explanation":"La fuente define al Comité como un órgano paritario formado por los Delegados de Prevención y el empresario o sus representantes en número igual.",
+  "meta":{"original_question_number":9,"correct_letter":"A"},
+  "correct_index":0
+  },
+  {
+  "id":"tema3_q10",
+  "type":"single_choice",
+  "question":"¿Cuál es el umbral de trabajadores para que sea obligatorio constituir un Comité de Seguridad y Salud?",
+  "options":["10 o más trabajadores.","25 o más trabajadores.","50 o más trabajadores.","250 o más trabajadores."],
+  "correct_answer":"50 o más trabajadores.",
+  "explanation":"El apartado 2.2.2 indica que todas las empresas o centros que cuenten con 50 o más trabajadores tienen que constituir un comité.",
+  "meta":{"original_question_number":10,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema3_q11",
+  "type":"single_choice",
+  "question":"¿Con qué frecuencia mínima debe reunirse el Comité de Seguridad y Salud?",
+  "options":["Mensualmente.","Al menos trimestralmente.","Una vez al año.","Cada vez que ocurra un accidente leve."],
+  "correct_answer":"Al menos trimestralmente.",
+  "explanation":"El material establece que el comité sirve como punto de consulta regular y periódica, al menos trimestralmente.",
+  "meta":{"original_question_number":11,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema3_q12",
+  "type":"single_choice",
+  "question":"¿Qué es el Plan de Prevención de Riesgos Laborales?",
+  "options":["Un resumen de las multas pagadas por la empresa.","El documento a través del cual se integra la actividad preventiva en el sistema general de gestión de la empresa.","Una lista de los teléfonos de emergencia del centro.","El contrato que se firma con el Servicio de Prevención Ajeno."],
+  "correct_answer":"El documento a través del cual se integra la actividad preventiva en el sistema general de gestión de la empresa.",
+  "explanation":"La definición del Plan de Prevención recogida en el texto es que es el documento integrador de la actividad preventiva en la gestión de la organización.",
+  "meta":{"original_question_number":12,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema3_q13",
+  "type":"single_choice",
+  "question":"Sobre el conocimiento del Plan de Prevención, es cierto que:",
+  "options":["Debe ser guardado bajo llave por el técnico de prevención.","Debe ser conocido exclusivamente por la dirección.","Debe ser conocido y asumido por toda la estructura y especialmente por todos los trabajadores.","Solo es obligatorio para empresas industriales."],
+  "correct_answer":"Debe ser conocido y asumido por toda la estructura y especialmente por todos los trabajadores.",
+  "explanation":"La autoevaluación del tema 3 aclara que el plan no es exclusivo de la dirección; debe ser conocido y asumido por toda la organización.",
+  "meta":{"original_question_number":13,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema3_q14",
+  "type":"single_choice",
+  "question":"¿Cuál es el primer instrumento esencial de gestión para aplicar el plan de prevención?",
+  "options":["La compra de uniformes nuevos.","La evaluación de riesgos.","La extinción de contratos temporales.","La realización de un simulacro de incendio."],
+  "correct_answer":"La evaluación de riesgos.",
+  "explanation":"La fuente indica que la primera acción requerida es hacer una evaluación de riesgos para conocer cuáles son y su gravedad.",
+  "meta":{"original_question_number":14,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema3_q15",
+  "type":"single_choice",
+  "question":"¿Quién tiene la obligación legal de firmar la Política de Prevención de la empresa?",
+  "options":["El trabajador más antiguo.","La dirección de la empresa.","El jefe de mantenimiento.","Solo los representantes sindicales."],
+  "correct_answer":"La dirección de la empresa.",
+  "explanation":"El material afirma que la política de prevención es responsabilidad de la dirección y, por tanto, debe ser firmada por personas u órganos con responsabilidad en la empresa.",
+  "meta":{"original_question_number":15,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema3_q16",
+  "type":"single_choice",
+  "question":"La Política de Prevención NO debería ser:",
+  "options":["Un compromiso firme con la seguridad.","Una parte de la responsabilidad social corporativa.","Una declaración del mero cumplimiento de la legislación.","Publicada y difundida por toda la organización."],
+  "correct_answer":"Una declaración del mero cumplimiento de la legislación.",
+  "explanation":"Según la autoevaluación, decir que se va a cumplir la ley es no decir nada, ya que el cumplimiento es obligatorio por defecto. La política debe ir más allá de la mera legalidad.",
+  "meta":{"original_question_number":16,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema3_q17",
+  "type":"single_choice",
+  "question":"¿Cuándo debe revisarse la evaluación de riesgos inicial?",
+  "options":["Solo si lo pide la Inspección de Trabajo.","Cada diez años obligatoriamente.","Cuando se produzcan cambios en los equipos, procesos o condiciones de trabajo.","Nunca, es un documento estático."],
+  "correct_answer":"Cuando se produzcan cambios en los equipos, procesos o condiciones de trabajo.",
+  "explanation":"El apartado 3.3.1 establece que la evaluación se revisará periódicamente o cuando haya cambios en equipos, procesos o condiciones.",
+  "meta":{"original_question_number":17,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema3_q18",
+  "type":"single_choice",
+  "question":"¿Qué tipo de evaluación puede realizar un técnico de prevención de nivel básico con un cierto entrenamiento?",
+  "options":["Evaluaciones complejas de radiaciones ionizantes.","Evaluaciones elementales con instrumentos simples y normalizados.","Evaluaciones de riesgos químicos de alta toxicidad.","Ninguna, solo puede realizar tareas administrativas."],
+  "correct_answer":"Evaluaciones elementales con instrumentos simples y normalizados.",
+  "explanation":"El texto menciona que las evaluaciones elementales pueden ser realizadas por un técnico de nivel básico aplicando instrumentos simples.",
+  "meta":{"original_question_number":18,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema3_q19",
+  "type":"single_choice",
+  "question":"En el cálculo de la magnitud del riesgo, si la probabilidad es 'Baja' y el daño es 'Ligeramente dañino', el riesgo se califica como:",
+  "options":["Trivial.","Tolerable.","Moderado.","Importante."],
+  "correct_answer":"Trivial.",
+  "explanation":"Según la tabla de magnitud de riesgos del PDF, la intersección entre probabilidad baja y ligeramente dañino resulta en riesgo 'Trivial (T)'.",
+  "meta":{"original_question_number":19,"correct_letter":"A"},
+  "correct_index":0
+  },
+  {
+  "id":"tema3_q20",
+  "type":"single_choice",
+  "question":"Ante un riesgo calificado como INTOLERABLE, ¿cuál es la acción a seguir?",
+  "options":["Continuar el trabajo y avisar al técnico en una semana.","No comenzar ni continuar el trabajo hasta que se reduzca el riesgo.","Solo usar guantes y seguir trabajando.","Hacer un descanso de 15 minutos."],
+  "correct_answer":"No comenzar ni continuar el trabajo hasta que se reduzca el riesgo.",
+  "explanation":"La definición de riesgo Intolerable (IN) indica que no debe comenzar ni continuar el trabajo, e incluso prohibirse si no se puede reducir.",
+  "meta":{"original_question_number":20,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema3_q21",
+  "type":"single_choice",
+  "question":"¿Cuál es el primer principio de la acción preventiva según el Art. 15 de la LPRL?",
+  "options":["Evaluar los riesgos que no se puedan evitar.","Evitar los riesgos.","Dar instrucciones a los trabajadores.","Sustituir lo peligroso."],
+  "correct_answer":"Evitar los riesgos.",
+  "explanation":"El orden racional de los principios comienza siempre por 'Evitar los riesgos'.",
+  "meta":{"original_question_number":21,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema3_q22",
+  "type":"single_choice",
+  "question":"¿Qué medida debe anteponerse siempre según la ley?",
+  "options":["La protección individual a la colectiva.","La formación teórica a la práctica.","La protección colectiva a la individual.","El uso de EPI a la señalización."],
+  "correct_answer":"La protección colectiva a la individual.",
+  "explanation":"Uno de los principios de acción preventiva es adoptar medidas que antepongan la protección colectiva a la individual.",
+  "meta":{"original_question_number":22,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema3_q23",
+  "type":"single_choice",
+  "question":"¿Qué documento describe el marco para prevenir y controlar riesgos sobre personas y bienes ante emergencias, integrado en protección civil?",
+  "options":["Plan de Marketing.","Plan de Autoprotección (PAU).","Hoja de mantenimiento de extintores.","Contrato de seguro de incendios."],
+  "correct_answer":"Plan de Autoprotección (PAU).",
+  "explanation":"El PAU se define como el documento que establece el marco orgánico y funcional para prevenir y controlar riesgos sobre personas y bienes y dar respuesta a emergencias.",
+  "meta":{"original_question_number":23,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema3_q24",
+  "type":"single_choice",
+  "question":"¿Cuántos niveles forman la estructura del sistema documental de la prevención?",
+  "options":["Dos niveles.","Tres niveles.","Cuatro niveles.","Diez niveles."],
+  "correct_answer":"Cuatro niveles.",
+  "explanation":"El apartado 4 indica que el sistema documental se estructura en cuatro niveles: Manual, Procedimientos, Instrucciones y Registros.",
+  "meta":{"original_question_number":24,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema3_q25",
+  "type":"single_choice",
+  "question":"¿Cuál de estos documentos describe específicamente las normas generales de prevención que afectan a todo el personal?",
+  "options":["El Manual de Prevención.","Los Registros de Datos.","Las Facturas de los EPI.","El folleto del Ministerio."],
+  "correct_answer":"El Manual de Prevención.",
+  "explanation":"El Manual de Prevención es el documento que describe el sistema e incluye las normas generales que afectan a todo el personal.",
+  "meta":{"original_question_number":25,"correct_letter":"A"},
+  "correct_index":0
+  },
+  {
+  "id":"tema3_q26",
+  "type":"single_choice",
+  "question":"¿Qué nivel documental detalla de forma clara cómo realizar una tarea específica de manera segura?",
+  "options":["Manual de prevención.","Procedimientos del sistema.","Instrucciones de trabajo.","Política de prevención."],
+  "correct_answer":"Instrucciones de trabajo.",
+  "explanation":"Las instrucciones de trabajo son necesarias para detallar aspectos de una tarea específica y deben estar disponibles para quienes deban cumplirlas.",
+  "meta":{"original_question_number":26,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema3_q27",
+  "type":"single_choice",
+  "question":"Un parte de accidente o el resultado de una medición de ruido se consideran:",
+  "options":["Instrucciones de trabajo.","Registros de datos.","Procedimientos del sistema.","Anexos del contrato laboral."],
+  "correct_answer":"Registros de datos.",
+  "explanation":"Los registros recogen la información de una acción preventiva ya realizada, como mediciones o partes de accidente.",
+  "meta":{"original_question_number":27,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema3_q28",
+  "type":"single_choice",
+  "question":"¿A qué norma se debe ajustar la señalización de seguridad y salud en el trabajo?",
+  "options":["RD 486/1997.","RD 485/1997.","LPRL 1995 únicamente.","ISO 9001."],
+  "correct_answer":"RD 485/1997.",
+  "explanation":"El cartel de señalización indica explícitamente que se rige por el Real Decreto 485/1997 de 14 de abril.",
+  "meta":{"original_question_number":28,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema3_q29",
+  "type":"single_choice",
+  "question":"¿Qué técnica de protección busca detectar y corregir posibles fallos en maquinaria antes de que ocurran incidentes?",
+  "options":["Señalización.","Uso de EPI.","Mantenimiento preventivo.","Ergonomía."],
+  "correct_answer":"Mantenimiento preventivo.",
+  "explanation":"La descripción de técnicas de protección define al mantenimiento preventivo como la programación de inspecciones para detectar fallos antes de que se conviertan en incidentes.",
+  "meta":{"original_question_number":29,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema3_q30",
+  "type":"single_choice",
+  "question":"En primeros auxilios, ¿qué significan las siglas de la conducta PAS?",
+  "options":["Prevenir, Avisar, Socorrer.","Proteger, Avisar, Socorrer.","Pausar, Ayudar, Salvar.","Prudencia, Auxilio, Seguridad."],
+  "correct_answer":"Proteger, Avisar, Socorrer.",
+  "explanation":"Aunque el texto no detalla las siglas letra por letra en un listado, el mapa conceptual y la teoría de actuación básica ante accidentes remiten a este protocolo estándar de protección, aviso y socorro.",
+  "meta":{"original_question_number":30,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema3_q31",
+  "type":"single_choice",
+  "question":"¿Qué norma establece el contenido mínimo del botiquín de primeros auxilios?",
+  "options":["RD 485/1997.","RD 486/1997.","LPRL 31/1995.","Ley Orgánica de Educación."],
+  "correct_answer":"RD 486/1997.",
+  "explanation":"La tabla de materiales de primeros auxilios indica que son los mínimos exigidos en el Real Decreto 486/1997.",
+  "meta":{"original_question_number":31,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema3_q32",
+  "type":"single_choice",
+  "question":"¿Cuál de los siguientes NO es un elemento mínimo obligatorio del botiquín según el RD 486/1997?",
+  "options":["Desinfectantes y antisépticos.","Gasas estériles.","Pinzas y tijeras.","Antibióticos de amplio espectro."],
+  "correct_answer":"Antibióticos de amplio espectro.",
+  "explanation":"La lista del botiquín incluye desinfectantes, gasas, vendas, pinzas, etc., pero no medicamentos como antibióticos.",
+  "meta":{"original_question_number":32,"correct_letter":"D"},
+  "correct_index":3
+  },
+  {
+  "id":"tema3_q33",
+  "type":"single_choice",
+  "question":"Para calcular la extensión de las quemaduras se utiliza habitualmente:",
+  "options":["La escala de Richter.","La regla de los 9 de Wallace.","El índice de masa corporal.","El método ISTAS 21."],
+  "correct_answer":"La regla de los 9 de Wallace.",
+  "explanation":"El mapa conceptual identifica la Regla de Wallace como el método para los primeros auxilios ante quemaduras.",
+  "meta":{"original_question_number":33,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema3_q34",
+  "type":"single_choice",
+  "question":"Ante una fractura, la actuación recomendada es:",
+  "options":["Mover la extremidad para comprobar el dolor.","Aplicar calor intenso en la zona.","Evitar movilizaciones e inmovilizar.","Dar de beber alcohol al herido."],
+  "correct_answer":"Evitar movilizaciones e inmovilizar.",
+  "explanation":"La tabla de técnicas básicas especifica que ante una fractura se debe evitar movilizaciones, valorar pulsos e inmovilizar.",
+  "meta":{"original_question_number":34,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema3_q35",
+  "type":"single_choice",
+  "question":"¿Quién supervisa el cumplimiento de la normativa en las empresas y puede sancionarlas?",
+  "options":["El Delegado de Prevención.","La Inspección de Trabajo y Seguridad Social.","El Comité de Seguridad y Salud.","Los propios trabajadores mediante votación."],
+  "correct_answer":"La Inspección de Trabajo y Seguridad Social.",
+  "explanation":"El caso práctico inicial y la sección de responsabilidades mencionan que la Inspección de Trabajo revisa planes y puede sancionar errores de gestión.",
+  "meta":{"original_question_number":35,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema3_q36",
+  "type":"single_choice",
+  "question":"La formación en prevención de riesgos laborales para el trabajador debe ser:",
+  "options":["Pagada por el trabajador fuera de horas.","Gratuita y dentro de la jornada laboral siempre que sea posible.","Opcional según el interés del empleado.","Solo teórica mediante videos de internet."],
+  "correct_answer":"Gratuita y dentro de la jornada laboral siempre que sea posible.",
+  "explanation":"Es un deber del empresario proporcionar formación adecuada y gratuita a todos los niveles.",
+  "meta":{"original_question_number":36,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema3_q37",
+  "type":"single_choice",
+  "question":"¿Qué órgano técnico tiene funciones auxiliares y de colaboración con el nivel superior?",
+  "options":["Nivel Básico.","Delegado de Prevención.","Inspector de Trabajo.","Personal de limpieza."],
+  "correct_answer":"Nivel Básico.",
+  "explanation":"En la descripción de funciones, el nivel básico tiene como una de sus tareas cualquier otra función auxiliar o de colaboración del nivel superior.",
+  "meta":{"original_question_number":37,"correct_letter":"A"},
+  "correct_index":0
+  },
+  {
+  "id":"tema3_q38",
+  "type":"single_choice",
+  "question":"¿Qué instrumento se utiliza para mantener los riesgos en un nivel tolerable a lo largo del tiempo?",
+  "options":["La evaluación inicial únicamente.","El control de riesgos (seguimiento periódico).","La firma del contrato de trabajo.","El pago del seguro de accidentes."],
+  "correct_answer":"El control de riesgos (seguimiento periódico).",
+  "explanation":"El apartado 3.3.3 indica que el control de riesgos tiene como objetivo mantenerlos en un nivel tolerable mediante medidas de control periódico.",
+  "meta":{"original_question_number":38,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema3_q39",
+  "type":"single_choice",
+  "question":"Los Delegados de Prevención son:",
+  "options":["Técnicos externos contratados por la empresa.","Representantes de los trabajadores con funciones específicas en materia de prevención.","Inspectores de la Seguridad Social.","Directivos encargados de la política de calidad."],
+  "correct_answer":"Representantes de los trabajadores con funciones específicas en materia de prevención.",
+  "explanation":"El esquema de organización define a los Delegados de Prevención como órganos de representación de los trabajadores.",
+  "meta":{"original_question_number":39,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema3_q40",
+  "type":"single_choice",
+  "question":"La vigilancia de la salud (reconocimientos médicos) es, con carácter general:",
+  "options":["Obligatoria para todos los trabajadores cada mes.","Voluntaria para el trabajador, salvo casos específicos de riesgo.","Prohibida por la ley de protección de datos.","Realizada por el empresario personalmente."],
+  "correct_answer":"Voluntaria para el trabajador, salvo casos específicos de riesgo.",
+  "explanation":"La autoevaluación aclara que las revisiones médicas solo son obligatorias en determinados casos (donde el estado de salud sea un peligro para sí mismo o terceros).",
+  "meta":{"original_question_number":40,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema3_q41",
+  "type":"single_choice",
+  "question":"¿Qué principio preventivo se aplica cuando sustituimos un producto tóxico por uno que no lo es?",
+  "options":["Evitar los riesgos.","Evaluar lo inevitable.","Sustituir lo peligroso por lo que entrañe poco o ningún peligro.","Combatir los riesgos en su origen."],
+  "correct_answer":"Sustituir lo peligroso por lo que entrañe poco o ningún peligro.",
+  "explanation":"Este es uno de los principios literales enumerados en el Art. 15 de la LPRL y en el mapa conceptual.",
+  "meta":{"original_question_number":41,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema3_q42",
+  "type":"single_choice",
+  "question":"Un factor de éxito en la integración de la prevención es que:",
+  "options":["Esté separada de la producción para no molestar.","Se integre en la actividad normal de cada área y departamento.","Solo la conozcan los delegados de prevención.","No genere ningún registro documental para ahorrar papel."],
+  "correct_answer":"Se integre en la actividad normal de cada área y departamento.",
+  "explanation":"La teoría subraya que la prevención deberá estar integrada en la actividad normal de cada área, departamento o nivel funcional.",
+  "meta":{"original_question_number":42,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema3_q43",
+  "type":"single_choice",
+  "question":"¿Qué técnica básica de primeros auxilios se aplica ante una parada cardiorrespiratoria?",
+  "options":["El torniquete.","La reanimación cardiopulmonar (RCP).","La inmovilización con escayola.","El lavado de ojos con suero."],
+  "correct_answer":"La reanimación cardiopulmonar (RCP).",
+  "explanation":"El mapa conceptual señala la RCP como una de las técnicas básicas ante accidentes graves.",
+  "meta":{"original_question_number":43,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema3_q44",
+  "type":"single_choice",
+  "question":"En el nivel 2 de la documentación, 'Procedimientos del sistema', ¿qué se incluye?",
+  "options":["La declaración de principios firmada por el director.","Cómo se gestionan las acciones correctivas o la investigación de accidentes.","Registros de las nóminas de los trabajadores.","Un plano de la ciudad."],
+  "correct_answer":"Cómo se gestionan las acciones correctivas o la investigación de accidentes.",
+  "explanation":"La lista de elaboración de procedimientos incluye puntos como investigación de accidentes, formación, y acciones correctivas.",
+  "meta":{"original_question_number":44,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema3_q45",
+  "type":"single_choice",
+  "question":"¿Cuál es el síntoma característico de un esguince según el material?",
+  "options":["Deformidad ósea visible.","Dolor e inflamación.","Impotencia funcional total y rotura de piel.","Pérdida de conciencia."],
+  "correct_answer":"Dolor e inflamación.",
+  "explanation":"La tabla de lesiones de primeros auxilios asocia al esguince los síntomas de dolor e inflamación.",
+  "meta":{"original_question_number":45,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema3_q46",
+  "type":"single_choice",
+  "question":"¿Qué técnica de prevención aplica la rotación de tareas o los horarios flexibles?",
+  "options":["Protección individual.","Organización del trabajo.","Señalización de seguridad.","Higiene industrial."],
+  "correct_answer":"Organización del trabajo.",
+  "explanation":"La rotación de tareas y horarios flexibles se listan como medidas dentro de la técnica de 'Organización del trabajo'.",
+  "meta":{"original_question_number":46,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema3_q47",
+  "type":"single_choice",
+  "question":"Un riesgo calificado como 'Tolerable' implica que:",
+  "options":["No se necesita mejorar la acción preventiva pero deben considerarse soluciones más rentables.","No debe comenzarse el trabajo de ninguna manera.","El riesgo debe eliminarse en menos de 24 horas.","El trabajador debe comprar su propio equipo."],
+  "correct_answer":"No se necesita mejorar la acción preventiva pero deben considerarse soluciones más rentables.",
+  "explanation":"La definición de riesgo Tolerable (TO) según el manual de evaluación es que no se necesita mejorar la acción preventiva aunque se pueden considerar soluciones rentables.",
+  "meta":{"original_question_number":47,"correct_letter":"A"},
+  "correct_index":0
+  },
+  {
+  "id":"tema3_q48",
+  "type":"single_choice",
+  "question":"¿Quién elabora y desarrolla los currículos de los títulos de FP en cada territorio?",
+  "options":["El Ministerio de Trabajo únicamente.","Las Comunidades Autónomas.","Los sindicatos locales.","Cada instituto de forma independiente."],
+  "correct_answer":"Las Comunidades Autónomas.",
+  "explanation":"El apartado 5 indica que cada una de las Comunidades Autónomas ha de desarrollar el título a través de currículos propios.",
+  "meta":{"original_question_number":48,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema3_q49",
+  "type":"single_choice",
+  "question":"¿Qué es la Fase de Formación en Empresas (FFE) en los nuevos ciclos?",
+  "options":["Un periodo de vacaciones pagadas.","Una fase práctica durante el primer y segundo curso para completar resultados de aprendizaje.","Un examen teórico final ante la Inspección.","Solo para alumnos de Grado Superior."],
+  "correct_answer":"Una fase práctica durante el primer y segundo curso para completar resultados de aprendizaje.",
+  "explanation":"La fuente explica que la FFE se realiza durante el primer y segundo curso completando los resultados de aprendizaje de los módulos.",
+  "meta":{"original_question_number":49,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema3_q50",
+  "type":"single_choice",
+  "question":"¿Qué nivel de cualificación profesional corresponde a los títulos de Grado Medio?",
+  "options":["Nivel 1.","Nivel 2.","Nivel 3.","Nivel 4."],
+  "correct_answer":"Nivel 2.",
+  "explanation":"El material especifica que los Ciclos Formativos de Grado Medio son de NIVEL 2.",
+  "meta":{"original_question_number":50,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q1",
+  "type":"single_choice",
+  "question":"¿Qué elemento es determinante para que exista una relación laboral según las fuentes?",
+  "options":["La denominación que las partes den al contrato.","La concurrencia de las características de dependencia, ajenidad, voluntariedad, retribución y carácter personalísimo.","Que el trabajo se realice exclusivamente para una administración pública.","Que el trabajador sea autónomo y asuma el riesgo de la actividad."],
+  "correct_answer":"La concurrencia de las características de dependencia, ajenidad, voluntariedad, retribución y carácter personalísimo.",
+  "explanation":"Según la fuente, lo determinante no es la denominación del contrato, sino la concurrencia simultánea de cinco características: dependencia, ajenidad, voluntariedad, retribución y carácter personalísimo.",
+  "meta":{"original_question_number":1,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q2",
+  "type":"single_choice",
+  "question":"¿En qué consiste la característica de 'ajenidad' en la relación laboral?",
+  "options":["El trabajador decide libremente trabajar para otra persona.","El trabajador actúa bajo el ámbito de dirección del empresario.","Los frutos del trabajo pertenecen al empresario.","El trabajo debe ser realizado por la persona contratada sin ser sustituida."],
+  "correct_answer":"Los frutos del trabajo pertenecen al empresario.",
+  "explanation":"La característica de ajenidad implica que los resultados o frutos del trabajo no pertenecen al trabajador, sino al empresario para quien presta el servicio.",
+  "meta":{"original_question_number":2,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema4_q3",
+  "type":"single_choice",
+  "question":"¿Cuál de las siguientes situaciones se considera una 'relación no laboral o excluida' del Estatuto de los Trabajadores?",
+  "options":["Personal de alta dirección.","Artistas en espectáculos públicos.","Los funcionarios públicos.","Deportistas profesionales."],
+  "correct_answer":"Los funcionarios públicos.",
+  "explanation":"La fuente lista explícitamente a los funcionarios públicos dentro de las relaciones no laborales o excluidas, ya que se rigen por el Estatuto Básico del Empleado Público y no por el Estatuto de los Trabajadores.",
+  "meta":{"original_question_number":3,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema4_q4",
+  "type":"single_choice",
+  "question":"Para que el trabajo familiar sea considerado una relación excluida, ¿hasta qué grado de parentesco se contempla?",
+  "options":["Primer grado únicamente.","Hasta el segundo grado inclusive por consanguinidad o afinidad.","Hasta el cuarto grado de consanguinidad.","Cualquier grado siempre que no vivan con el empresario."],
+  "correct_answer":"Hasta el segundo grado inclusive por consanguinidad o afinidad.",
+  "explanation":"La norma excluye los trabajos familiares realizados por cónyuge, ascendientes, descendientes y parientes por consanguinidad, afinidad o adopción hasta el segundo grado inclusive, siempre que convivan con el empresario.",
+  "meta":{"original_question_number":4,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q5",
+  "type":"single_choice",
+  "question":"¿Cuál de estas es una 'relación laboral especial' mencionada en el temario?",
+  "options":["Trabajadores autónomos por cuenta propia.","Consejeros de sociedades mercantiles.","Empleados al servicio del hogar familiar.","Transportistas con autorización administrativa propia."],
+  "correct_answer":"Empleados al servicio del hogar familiar.",
+  "explanation":"La fuente diferencia entre relaciones excluidas y especiales. Los empleados del hogar, deportistas y artistas se citan como ejemplos de relaciones laborales especiales que requieren regulaciones específicas.",
+  "meta":{"original_question_number":5,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema4_q6",
+  "type":"single_choice",
+  "question":"¿Qué rama jurídica se ocupa de regular la relación entre el empresario y el trabajador?",
+  "options":["El Derecho Civil.","El Derecho del Trabajo o Derecho Laboral.","El Derecho Administrativo.","El Derecho Mercantil."],
+  "correct_answer":"El Derecho del Trabajo o Derecho Laboral.",
+  "explanation":"El material de autoevaluación confirma que el Derecho del Trabajo o Derecho Laboral es el encargado de regular el vínculo entre empleador y empleado.",
+  "meta":{"original_question_number":6,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q7",
+  "type":"single_choice",
+  "question":"En la jerarquía de las fuentes del derecho laboral, ¿qué norma ocupa el rango superior a nivel nacional?",
+  "options":["El Estatuto de los Trabajadores.","El Convenio Colectivo.","La Constitución Española.","El Contrato de Trabajo."],
+  "correct_answer":"La Constitución Española.",
+  "explanation":"El material ordena jerárquicamente las fuentes y sitúa a la Constitución Española en la cúspide de las normas nacionales, por encima de leyes y reglamentos.",
+  "meta":{"original_question_number":7,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema4_q8",
+  "type":"single_choice",
+  "question":"¿Qué diferencia a un Reglamento de una Directiva en el ámbito de la Unión Europea?",
+  "options":["El Reglamento no es obligatorio y la Directiva sí.","El Reglamento es de aplicación obligatoria en todos los Estados miembros, mientras que la Directiva requiere transposición al Derecho nacional.","La Directiva solo se aplica a empresas privadas.","El Reglamento solo orienta y no obliga."],
+  "correct_answer":"El Reglamento es de aplicación obligatoria en todos los Estados miembros, mientras que la Directiva requiere transposición al Derecho nacional.",
+  "explanation":"Según la fuente, los Reglamentos son de aplicación obligatoria directa, mientras que las Directivas marcan objetivos que los Estados deben transponer mediante medidas nacionales en un plazo determinado.",
+  "meta":{"original_question_number":8,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q9",
+  "type":"single_choice",
+  "question":"¿Qué establece el principio de 'norma más favorable'?",
+  "options":["Se aplica siempre la norma de mayor rango jerárquico aunque sea peor.","Ante dos o más normas vigentes, se aplica la que en su conjunto sea más beneficiosa para el trabajador.","El trabajador puede elegir libremente qué ley cumplir.","La empresa puede empeorar las condiciones legales mediante el contrato."],
+  "correct_answer":"Ante dos o más normas vigentes, se aplica la que en su conjunto sea más beneficiosa para el trabajador.",
+  "explanation":"El principio de norma más favorable indica que si existen varias normas aplicables a un caso, debe elegirse la que proporcione mejores condiciones al trabajador evaluadas globalmente.",
+  "meta":{"original_question_number":9,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q10",
+  "type":"single_choice",
+  "question":"En virtud del principio de 'irrenunciabilidad de derechos', ¿puede un trabajador aceptar voluntariamente menos vacaciones que las fijadas en su convenio?",
+  "options":["Sí, si hay acuerdo mutuo firmado.","No, el pacto sería nulo por intentar renunciar a derechos indisponibles reconocidos legalmente.","Solo si el empresario le paga una indemnización compensatoria.","Sí, si el trabajador tiene más de 5 años de antigüedad."],
+  "correct_answer":"No, el pacto sería nulo por intentar renunciar a derechos indisponibles reconocidos legalmente.",
+  "explanation":"La fuente explica que según el art. 3.5 del ET, los trabajadores no pueden renunciar a derechos reconocidos por normas legales o convenios. El pacto de reducción de vacaciones sería nulo incluso con consentimiento.",
+  "meta":{"original_question_number":10,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q11",
+  "type":"single_choice",
+  "question":"¿Qué se entiende por 'período de prueba'?",
+  "options":["Un tiempo de trabajo gratuito para aprender el oficio.","Un acuerdo pactado por escrito para que el empresario constate las aptitudes del trabajador y este conozca las condiciones.","Un examen teórico obligatorio al final del primer año.","El tiempo que dura la formación inicial fuera de la empresa."],
+  "correct_answer":"Un acuerdo pactado por escrito para que el empresario constate las aptitudes del trabajador y este conozca las condiciones.",
+  "explanation":"El período de prueba se define como un pacto escrito al inicio de la relación laboral con el objetivo de evaluar mutuamente la idoneidad y las condiciones de trabajo.",
+  "meta":{"original_question_number":11,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q12",
+  "type":"single_choice",
+  "question":"Si el convenio colectivo no establece nada, ¿cuál es la duración máxima del período de prueba para técnicos titulados?",
+  "options":["Un mes.","Dos meses.","Seis meses.","Un año."],
+  "correct_answer":"Seis meses.",
+  "explanation":"El material especifica que, en defecto de pacto en convenio, la duración máxima del período de prueba para técnicos titulados no podrá exceder de seis meses.",
+  "meta":{"original_question_number":12,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema4_q13",
+  "type":"single_choice",
+  "question":"¿Se puede pactar un nuevo período de prueba si el trabajador ya desempeñó las mismas funciones anteriormente en la empresa?",
+  "options":["Sí, si el nuevo contrato es indefinido.","No, la ley lo prohíbe porque el empresario ya tuvo oportunidad de conocer sus aptitudes.","Sí, si han pasado más de seis meses desde el último contrato.","Solo si el trabajador lo solicita por escrito."],
+  "correct_answer":"No, la ley lo prohíbe porque el empresario ya tuvo oportunidad de conocer sus aptitudes.",
+  "explanation":"La fuente indica que es nulo el pacto de período de prueba cuando el trabajador ya ha desempeñado las mismas funciones con anterioridad en la misma empresa bajo cualquier modalidad de contratación.",
+  "meta":{"original_question_number":13,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q14",
+  "type":"single_choice",
+  "question":"¿Qué tipo de contrato tiene por objeto la obtención de la práctica profesional adecuada al nivel de estudios?",
+  "options":["Contrato para la formación en alternancia.","Contrato indefinido ordinario.","Contrato formativo para la obtención de la práctica profesional.","Contrato temporal por circunstancias de la producción."],
+  "correct_answer":"Contrato formativo para la obtención de la práctica profesional.",
+  "explanation":"Según el artículo 11.3 del ET citado en el texto, este contrato busca la adquisición de habilidades y capacidades correspondientes al título obtenido previamente por la persona trabajadora.",
+  "meta":{"original_question_number":14,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema4_q15",
+  "type":"single_choice",
+  "question":"¿Cuál es la duración máxima ordinaria de la jornada de trabajo?",
+  "options":["35 horas semanales.","40 horas semanales de promedio en cómputo anual.","48 horas semanales incluyendo extras.","No hay límite legal si se paga plus de nocturnidad."],
+  "correct_answer":"40 horas semanales de promedio en cómputo anual.",
+  "explanation":"El Estatuto de los Trabajadores regula que la duración máxima de la jornada ordinaria será de 40 horas semanales de promedio en cómputo anual.",
+  "meta":{"original_question_number":15,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q16",
+  "type":"single_choice",
+  "question":"¿Cómo se define la 'jornada partida' según el temario?",
+  "options":["Aquella en la que las horas diarias se cumplen de forma ininterrumpida.","La que transcurre exclusivamente en horario nocturno.","La que se divide en dos fracciones separadas por un periodo de descanso intermedio no retribuido.","La que se realiza solo durante los fines de semana."],
+  "correct_answer":"La que se divide en dos fracciones separadas por un periodo de descanso intermedio no retribuido.",
+  "explanation":"La tabla de tipos de jornada define la jornada partida como aquella dividida en dos fracciones separadas por un descanso (generalmente para comer) que no cuenta como tiempo de trabajo.",
+  "meta":{"original_question_number":16,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema4_q17",
+  "type":"single_choice",
+  "question":"¿En qué franja horaria tiene lugar la 'jornada nocturna'?",
+  "options":["Entre las 20:00 y las 4:00 horas.","Entre las 22:00 y las 6:00 horas.","Entre las 00:00 y las 8:00 horas.","Cualquier horario que supere las 10 horas diarias."],
+  "correct_answer":"Entre las 22:00 y las 6:00 horas.",
+  "explanation":"El material define la jornada nocturna como la realizada entre las 22:00 horas y las 6:00 horas del día siguiente.",
+  "meta":{"original_question_number":17,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q18",
+  "type":"single_choice",
+  "question":"¿Qué descanso mínimo semanal tienen los trabajadores mayores de edad?",
+  "options":["Un día ininterrumpido.","Día y medio ininterrumpido.","Dos días ininterrumpidos.","Tres días al mes acumulables."],
+  "correct_answer":"Día y medio ininterrumpido.",
+  "explanation":"La fuente de autoevaluación indica que los mayores de edad tienen derecho a un descanso semanal de un día y medio, mientras que para los menores es de dos días.",
+  "meta":{"original_question_number":18,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q19",
+  "type":"single_choice",
+  "question":"Si la jornada diaria continuada excede de 6 horas, ¿qué descanso retribuido mínimo corresponde a un mayor de edad?",
+  "options":["5 minutos.","10 minutos.","15 minutos.","30 minutos."],
+  "correct_answer":"15 minutos.",
+  "explanation":"El material establece que los mayores de edad tienen derecho a un descanso mínimo de 15 minutos cuando su jornada diaria continuada exceda de 6 horas.",
+  "meta":{"original_question_number":19,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema4_q20",
+  "type":"single_choice",
+  "question":"¿A cuántos días de permiso retribuido tiene derecho un trabajador por traslado de su domicilio habitual?",
+  "options":["1 día.","2 días.","4 días.","No tiene derecho a permiso."],
+  "correct_answer":"1 día.",
+  "explanation":"En el apartado de permisos y autoevaluación se confirma que por traslado de domicilio habitual se tiene derecho a 1 día de permiso.",
+  "meta":{"original_question_number":20,"correct_letter":"A"},
+  "correct_index":0
+  },
+  {
+  "id":"tema4_q21",
+  "type":"single_choice",
+  "question":"¿De qué lengua latina deriva el término 'salario'?",
+  "options":["Salsus (salado).","Salarium (pago con sal).","Solidi (moneda de oro).","Labor (trabajo)."],
+  "correct_answer":"Salarium (pago con sal).",
+  "explanation":"La reflexión del tema indica que salario deriva de 'salarium', refiriéndose al pago con sal que recibían los soldados romanos.",
+  "meta":{"original_question_number":21,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q22",
+  "type":"single_choice",
+  "question":"¿Qué función principal tienen los grupos de cotización de la Seguridad Social?",
+  "options":["Determinar el número de días de vacaciones.","Establecer las bases de cotización mínimas y máximas para cada categoría profesional.","Asignar el turno de trabajo (mañana o tarde).","Establecer la edad de jubilación obligatoria."],
+  "correct_answer":"Establecer las bases de cotización mínimas y máximas para cada categoría profesional.",
+  "explanation":"La fuente explica que la función principal de los 11 grupos de cotización es definir los límites de las bases para cada categoría.",
+  "meta":{"original_question_number":22,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q23",
+  "type":"single_choice",
+  "question":"En la tabla de bases de cotización, ¿qué grupo corresponde a 'Ingenieros técnicos, peritos y ayudantes titulados'?",
+  "options":["Grupo 1.","Grupo 2.","Grupo 3.","Grupo 4."],
+  "correct_answer":"Grupo 2.",
+  "explanation":"La tabla de clasificación profesional sitúa a los ingenieros técnicos y ayudantes titulados en el Grupo de cotización 2.",
+  "meta":{"original_question_number":23,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q24",
+  "type":"single_choice",
+  "question":"¿Cuál es un derecho básico del trabajador emanado de la Constitución Española?",
+  "options":["Derecho a la percepción puntual del salario.","Derecho al trabajo y a la libre elección de profesión u oficio.","Derecho a no hacer competencia desleal.","Derecho a contribuir a la mejora de la productividad."],
+  "correct_answer":"Derecho al trabajo y a la libre elección de profesión u oficio.",
+  "explanation":"El mapa conceptual y el texto distinguen entre derechos que emanan de la Constitución (como la huelga y la libre elección de profesión) y los del Estatuto (como la percepción puntual del salario).",
+  "meta":{"original_question_number":24,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q25",
+  "type":"single_choice",
+  "question":"¿A qué deber del trabajador corresponde 'no hacer competencia desleal a la empresa'?",
+  "options":["Un derecho fundamental.","Un deber básico del Estatuto de los Trabajadores.","Un poder del empresario.","Una cláusula opcional del contrato mercantil."],
+  "correct_answer":"Un deber básico del Estatuto de los Trabajadores.",
+  "explanation":"El material incluye el no realizar competencia desleal como uno de los deberes fundamentales que el trabajador asume en su contrato laboral.",
+  "meta":{"original_question_number":25,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q26",
+  "type":"single_choice",
+  "question":"¿Qué implica el 'poder disciplinario' del empresario?",
+  "options":["La capacidad de modificar el salario a su voluntad.","La facultad de sancionar los incumplimientos laborales del trabajador.","El derecho a despedir sin causa en cualquier momento.","La obligación de pagar horas extraordinarias siempre."],
+  "correct_answer":"La facultad de sancionar los incumplimientos laborales del trabajador.",
+  "explanation":"El mapa conceptual identifica el poder disciplinario como una facultad del empresario vinculada al control del cumplimiento de las obligaciones laborales.",
+  "meta":{"original_question_number":26,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q27",
+  "type":"single_choice",
+  "question":"¿Cuándo se considera que un trabajador es 'nocturno'?",
+  "options":["Cuando trabaja siempre después de las 20:00.","Cuando realiza en horario de 22:00 a 6:00 al menos tres horas de su jornada diaria o un tercio de su jornada anual.","Cualquier trabajador que realice horas extras por la tarde.","Solo si el contrato especifica que no trabajará de día."],
+  "correct_answer":"Cuando realiza en horario de 22:00 a 6:00 al menos tres horas de su jornada diaria o un tercio de su jornada anual.",
+  "explanation":"La definición técnica de trabajador nocturno requiere cumplir el requisito de trabajar un mínimo de tres horas en el periodo nocturno o un tercio del cómputo anual.",
+  "meta":{"original_question_number":27,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q28",
+  "type":"single_choice",
+  "question":"¿Qué derecho tiene el padre o madre por el nacimiento de hijos prematuros?",
+  "options":["Ausentarse del trabajo 1 hora.","Una reducción de jornada de 4 horas diarias.","Permiso retribuido de 15 días adicionales.","No tiene ningún derecho específico por este motivo."],
+  "correct_answer":"Ausentarse del trabajo 1 hora.",
+  "explanation":"La autoevaluación confirma que ante el nacimiento de hijos prematuros existe el derecho a ausentarse 1 hora del trabajo.",
+  "meta":{"original_question_number":28,"correct_letter":"A"},
+  "correct_index":0
+  },
+  {
+  "id":"tema4_q29",
+  "type":"single_choice",
+  "question":"¿Cuál es el objetivo principal del contrato para la formación en alternancia?",
+  "options":["Sustituir a trabajadores en huelga.","Compatibilizar el trabajo retribuido con procesos formativos (FP, universidad o catálogo de especialidades).","Evaluar si el trabajador es apto durante 6 meses.","Proporcionar una indemnización de 20 días al finalizar."],
+  "correct_answer":"Compatibilizar el trabajo retribuido con procesos formativos (FP, universidad o catálogo de especialidades).",
+  "explanation":"El contrato en alternancia vincula la actividad laboral con la formación reglada para permitir al trabajador formarse mientras ejerce el puesto.",
+  "meta":{"original_question_number":29,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q30",
+  "type":"single_choice",
+  "question":"¿Qué incentivo existe para los contratos en alternancia en empresas de menos de 250 personas?",
+  "options":["Subvención directa de 10.000 euros.","Reducción del 100% en las cuotas a la Seguridad Social.","Exención total del pago del IRPF.","Reducción de la jornada laboral a la mitad sin bajar el sueldo."],
+  "correct_answer":"Reducción del 100% en las cuotas a la Seguridad Social.",
+  "explanation":"La fuente detalla que las empresas de menos de 250 personas pueden beneficiarse de una reducción del 100% en las cuotas del trabajador y empresariales.",
+  "meta":{"original_question_number":30,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q31",
+  "type":"single_choice",
+  "question":"¿En qué situación se considera nulo un contrato de trabajo según el ejemplo de vacaciones?",
+  "options":["Cuando el trabajador no sabe leer.","Cuando una cláusula (como la de vacaciones) establece condiciones inferiores a lo dispuesto en el convenio o ley.","Si se firma de manera digital.","Si el empresario es un familiar."],
+  "correct_answer":"Cuando una cláusula (como la de vacaciones) establece condiciones inferiores a lo dispuesto en el convenio o ley.",
+  "explanation":"El material aclara que aunque no sea nulo todo el contrato, la cláusula que empeore los mínimos legales o de convenio es nula.",
+  "meta":{"original_question_number":31,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q32",
+  "type":"single_choice",
+  "question":"¿Qué se entiende por 'extinción' de la relación laboral?",
+  "options":["La interrupción temporal del contrato.","La finalización definitiva de la relación laboral.","Un cambio en las funciones del trabajador.","El traslado del trabajador a otra provincia."],
+  "correct_answer":"La finalización definitiva de la relación laboral.",
+  "explanation":"El mapa conceptual distingue entre modificación (cambios), suspensión (paréntesis temporal) y extinción (finalización de la relación).",
+  "meta":{"original_question_number":32,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q33",
+  "type":"single_choice",
+  "question":"¿Cuál es una causa de 'suspensión' temporal del contrato?",
+  "options":["Despido disciplinario.","Incapacidad Temporal (baja médica).","Dimisión del trabajador.","Jubilación del empresario."],
+  "correct_answer":"Incapacidad Temporal (baja médica).",
+  "explanation":"La incapacidad temporal es una de las causas que suspende el contrato: se deja de trabajar y de pagar salario pero el vínculo se mantiene y se reanuda tras la recuperación.",
+  "meta":{"original_question_number":33,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q34",
+  "type":"single_choice",
+  "question":"En un despido por causas objetivas (económicas, técnicas...), ¿qué permiso tiene el trabajador durante el preaviso?",
+  "options":["6 horas semanales para búsqueda de empleo.","15 días de vacaciones pagadas adicionales.","1 hora diaria para ir al médico.","No tiene ningún permiso especial."],
+  "correct_answer":"6 horas semanales para búsqueda de empleo.",
+  "explanation":"La fuente indica que en despidos objetivos, durante el preaviso hasta la extinción, el trabajador tiene 6 horas para buscar empleo.",
+  "meta":{"original_question_number":34,"correct_letter":"A"},
+  "correct_index":0
+  },
+  {
+  "id":"tema4_q35",
+  "type":"single_choice",
+  "question":"¿Qué son los 'convenios colectivos'?",
+  "options":["Leyes dictadas por el Gobierno para todas las empresas.","Acuerdos negociados entre sindicatos y empresarios con eficacia normativa para fijar condiciones de trabajo.","Contratos individuales firmados por cada trabajador.","Recomendaciones internacionales de la OIT."],
+  "correct_answer":"Acuerdos negociados entre sindicatos y empresarios con eficacia normativa para fijar condiciones de trabajo.",
+  "explanation":"Se definen como acuerdos escritos con fuerza de norma que regulan el ámbito de una empresa o sector por un tiempo determinado.",
+  "meta":{"original_question_number":35,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q36",
+  "type":"single_choice",
+  "question":"¿Cuál es el límite máximo de duración para una excedencia por cuidado de hijos?",
+  "options":["1 año.","2 años.","3 años a contar desde el nacimiento o adopción.","Hasta que el hijo cumpla 18 años."],
+  "correct_answer":"3 años a contar desde el nacimiento o adopción.",
+  "explanation":"La fuente de autoevaluación especifica que el derecho a permanecer en excedencia para el cuidado de un hijo llega hasta que el menor cumpla los 3 años.",
+  "meta":{"original_question_number":36,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema4_q37",
+  "type":"single_choice",
+  "question":"¿Qué significan las siglas 'SMI'?",
+  "options":["Sindicato Mayoritario de Inversión.","Salario Mínimo Interprofesional.","Seguro Médico Individual.","Sociedad Mercantil Industrial."],
+  "correct_answer":"Salario Mínimo Interprofesional.",
+  "explanation":"El material utiliza estas siglas para referirse a la cuantía mínima legal que debe percibir un trabajador por jornada completa.",
+  "meta":{"original_question_number":37,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q38",
+  "type":"single_choice",
+  "question":"¿Qué es el 'Estatuto de los Trabajadores'?",
+  "options":["Una norma reglamentaria de rango inferior al convenio.","La ley básica (RDL 2/2015) que regula las relaciones laborales en España.","Un manual de buenas prácticas sin valor legal.","La constitución privada de los sindicatos."],
+  "correct_answer":"La ley básica (RDL 2/2015) que regula las relaciones laborales en España.",
+  "explanation":"El texto lo identifica como la norma reguladora fundamental de las relaciones laborales (ET) en el ordenamiento jurídico español.",
+  "meta":{"original_question_number":38,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q39",
+  "type":"single_choice",
+  "question":"En el ejemplo de jornada, si el convenio marca 38h y el contrato 40h, ¿cuál prevalece?",
+  "options":["El contrato porque es la voluntad de las partes.","El convenio colectivo (38h) por ser la norma más favorable e irrenunciable.","El Estatuto de los Trabajadores exclusivamente.","Se hace una media de 39h."],
+  "correct_answer":"El convenio colectivo (38h) por ser la norma más favorable e irrenunciable.",
+  "explanation":"En base al principio de norma más favorable y la irrenunciabilidad de derechos, el trabajador no puede pactar una jornada superior a la permitida por su convenio.",
+  "meta":{"original_question_number":39,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q40",
+  "type":"single_choice",
+  "question":"¿Qué tipo de norma de la Unión Europea es de 'aplicación obligatoria en todos los Estados miembros' sin necesidad de transposición?",
+  "options":["Directiva.","Recomendación.","Reglamento.","Decisión dirigida a un particular."],
+  "correct_answer":"Reglamento.",
+  "explanation":"El material aclara que los Reglamentos son normas de aplicación directa y obligatoria en todo el territorio de la UE.",
+  "meta":{"original_question_number":40,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema4_q41",
+  "type":"single_choice",
+  "question":"¿Cómo se denomina a la modificación del contrato que afecta a las tareas que realiza el trabajador?",
+  "options":["Movilidad geográfica.","Movilidad funcional.","Despido objetivo.","Suspensión disciplinaria."],
+  "correct_answer":"Movilidad funcional.",
+  "explanation":"La movilidad funcional es el cambio de las funciones o tareas asignadas originalmente en el contrato.",
+  "meta":{"original_question_number":41,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q42",
+  "type":"single_choice",
+  "question":"¿Qué sucede si un trabajador mayor de edad realiza una jornada de 8:00 a 14:00 y de 16:00 a 18:00?",
+  "options":["Tiene derecho a 15 minutos de descanso retribuido por la mañana.","No tiene derecho a pausa retribuida de 15 min al no superar las 6 horas de trabajo continuado.","Debe descansar 2 horas por ley cada tarde.","Tiene derecho a 20 días de permiso adicionales."],
+  "correct_answer":"No tiene derecho a pausa retribuida de 15 min al no superar las 6 horas de trabajo continuado.",
+  "explanation":"Al ser jornada partida con bloques de 6 y 2 horas, no se cumple el requisito de que el trabajo 'continuado' exceda de las 6 horas.",
+  "meta":{"original_question_number":42,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q43",
+  "type":"single_choice",
+  "question":"¿Cuál de estos es un deber fundamental del trabajador?",
+  "options":["Promoción y formación profesional.","Cumplir con las obligaciones de su puesto con diligencia y buena fe.","Integridad física.","Ocupación efectiva."],
+  "correct_answer":"Cumplir con las obligaciones de su puesto con diligencia y buena fe.",
+  "explanation":"El material clasifica la diligencia y la buena fe como deberes del trabajador, mientras que la integridad y la formación son derechos.",
+  "meta":{"original_question_number":43,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q44",
+  "type":"single_choice",
+  "question":"¿Qué documento justifica el pago del salario realizado por la empresa?",
+  "options":["El currículum vitae.","La nómina.","El convenio colectivo.","La carta de presentación."],
+  "correct_answer":"La nómina.",
+  "explanation":"La nómina es el recibo individual y justificante del pago de los salarios devengados por el trabajador.",
+  "meta":{"original_question_number":44,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q45",
+  "type":"single_choice",
+  "question":"¿A quiénes obliga una 'Decisión' de la Unión Europea?",
+  "options":["A todos los ciudadanos de la UE sin excepción.","En particular a quienes vayan dirigidas (un Estado o una empresa).","No obliga a nadie, solo orienta.","Solo a los funcionarios internacionales."],
+  "correct_answer":"En particular a quienes vayan dirigidas (un Estado o una empresa).",
+  "explanation":"A diferencia del Reglamento, la Decisión tiene destinatarios específicos sobre los cuales ejerce su obligatoriedad.",
+  "meta":{"original_question_number":45,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q46",
+  "type":"single_choice",
+  "question":"¿Qué es la 'costumbre laboral'?",
+  "options":["Un acuerdo entre sindicatos a nivel nacional.","Una norma escrita del Gobierno.","Una fuente del derecho que solo se aplica en defecto de normas legales o convenios.","El horario que el trabajador elige por hábito."],
+  "correct_answer":"Una fuente del derecho que solo se aplica en defecto de normas legales o convenios.",
+  "explanation":"La fuente indica que la costumbre laboral es el último escalón de la jerarquía y solo se invoca si no hay regulación superior escrita.",
+  "meta":{"original_question_number":46,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema4_q47",
+  "type":"single_choice",
+  "question":"¿Cuál de los siguientes colectivos tiene una relación laboral de carácter especial?",
+  "options":["Trabajadores agrícolas.","Operarios de industria química.","Deportistas profesionales.","Administrativos de empresa privada."],
+  "correct_answer":"Deportistas profesionales.",
+  "explanation":"Los deportistas profesionales se citan explícitamente como ejemplo de relación laboral especial en el temario.",
+  "meta":{"original_question_number":47,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema4_q48",
+  "type":"single_choice",
+  "question":"¿Qué sucede si un trabajador disminuye su rendimiento de forma continuada y voluntaria?",
+  "options":["Nada, es un derecho del trabajador.","Es una falta sancionable que puede derivar incluso en el despido.","El empresario debe subirle el sueldo para motivarle.","Se le debe dar una excedencia obligatoria."],
+  "correct_answer":"Es una falta sancionable que puede derivar incluso en el despido.",
+  "explanation":"La contribución a la mejora de la productividad es un deber; su incumplimiento voluntario y continuado permite al empresario ejercer su poder disciplinario.",
+  "meta":{"original_question_number":48,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q49",
+  "type":"single_choice",
+  "question":"¿Qué derecho permite a los trabajadores defender sus intereses colectivos frente al empresario?",
+  "options":["Derecho a la intimidad.","Derecho a la negociación colectiva.","Derecho al traslado de domicilio.","Derecho a la formación técnica."],
+  "correct_answer":"Derecho a la negociación colectiva.",
+  "explanation":"La negociación colectiva es un derecho laboral básico para fijar condiciones comunes a un grupo de trabajadores mediante convenios.",
+  "meta":{"original_question_number":49,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q50",
+  "type":"single_choice",
+  "question":"Según el mapa conceptual, ¿cuáles son los dos poderes principales del empresario?",
+  "options":["Poder legislativo y judicial.","Poder de dirección y poder disciplinario.","Poder de sindicación y huelga.","Poder de subida salarial y vacaciones."],
+  "correct_answer":"Poder de dirección y poder disciplinario.",
+  "explanation":"El mapa conceptual de la relación laboral ramifica los poderes del empresario específicamente en dirección (organización) y disciplinario (sanción).",
+  "meta":{"original_question_number":50,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+    "id": "tema6_q1",
+    "type": "single_choice",
+    "question": "¿En qué dos grandes grupos se pueden dividir las decisiones a tomar al finalizar el Ciclo Formativo?",
+    "options": [
+      "Trabajar o seguir formándote",
+      "Opositar o trabajar en empresa privada",
+      "Autoempleo o cuenta ajena",
+      "Estudios universitarios o másteres de FP"
+    ],
+    "correct_answer": "Trabajar o seguir formándote",
+    "explanation": "Según la fuente, una vez se adquiere el título, las decisiones se dividen en dos grandes grupos: trabajar o seguir formándote.",
+    "meta": {
+      "original_question_number": 1,
+      "correct_letter": "A"
+    },
+    "correct_index": 0
+  },
+  {
+    "id": "tema6_q2",
+    "type": "single_choice",
+    "question": "¿Cuál es el objetivo principal de la Formación Profesional según el documento?",
+    "options": [
+      "La obtención de créditos ECTS universitarios",
+      "La inserción en el mercado laboral",
+      "La preparación exclusiva para el autoempleo",
+      "La superación de oposiciones públicas"
+    ],
+    "correct_answer": "La inserción en el mercado laboral",
+    "explanation": "La fuente indica explícitamente que la FP tiene un carácter terminal siendo su objetivo la inserción en el mercado laboral.",
+    "meta": {
+      "original_question_number": 2,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema6_q3",
+    "type": "single_choice",
+    "question": "Si decides crear una empresa de placas solares al finalizar el ciclo, ¿qué tipo de trabajo estarías realizando?",
+    "options": [
+      "Trabajo por cuenta ajena",
+      "Trabajo para la Administración Pública",
+      "Trabajo por cuenta propia (Autoempleo)",
+      "Trabajo becado de formación"
+    ],
+    "correct_answer": "Trabajo por cuenta propia (Autoempleo)",
+    "explanation": "La autoevaluación del tema confirma que si decides crear tu propia empresa trabajas por cuenta propia.",
+    "meta": {
+      "original_question_number": 3,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema6_q4",
+    "type": "single_choice",
+    "question": "¿Cómo define el documento la 'toma de decisiones'?",
+    "options": [
+      "Un suceso fortuito basado en la intuición personal",
+      "Un proceso de elección entre alternativas para resolver situaciones actuales o potenciales",
+      "La obligación de aceptar la primera oferta laboral recibida",
+      "El registro administrativo en el Servicio Público de Empleo"
+    ],
+    "correct_answer": "Un proceso de elección entre alternativas para resolver situaciones actuales o potenciales",
+    "explanation": "La fuente define la toma de decisiones como el proceso mediante el cual se realiza una elección entre distintas alternativas para resolver problemas o situaciones de la vida.",
+    "meta": {
+      "original_question_number": 4,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema6_q5",
+    "type": "single_choice",
+    "question": "¿Cuál es la primera fase del proceso de toma de decisiones?",
+    "options": [
+      "Enumeración de alternativas",
+      "Elección",
+      "Reconocimiento de la necesidad de decidir",
+      "Evaluación de alternativas"
+    ],
+    "correct_answer": "Reconocimiento de la necesidad de decidir",
+    "explanation": "La primera fase es el Reconocimiento, que ocurre cuando la persona se enfrenta a una situación que implica amenazas u oportunidades.",
+    "meta": {
+      "original_question_number": 5,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema6_q6",
+    "type": "single_choice",
+    "question": "En la toma de decisiones, ¿en qué fase se determina cuáles son las metas influenciadas por los valores personales?",
+    "options": [
+      "Ejecución",
+      "Enumeración de alternativas/opciones",
+      "Reconocimiento",
+      "Análisis de mercado"
+    ],
+    "correct_answer": "Enumeración de alternativas/opciones",
+    "explanation": "En la segunda fase, Enumeración, se determinan las metas, las cuales están influenciadas por los valores y prioridades personales.",
+    "meta": {
+      "original_question_number": 6,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema6_q7",
+    "type": "single_choice",
+    "question": "¿Qué implica la fase de 'Análisis/Evaluación de alternativas'?",
+    "options": [
+      "Poner en práctica la decisión final",
+      "Estudiar las ventajas y limitaciones de cada opción considerando recursos como tiempo y dinero",
+      "Hacer una lista rápida sin reflexionar",
+      "Esperar a que otros elijan por nosotros"
+    ],
+    "correct_answer": "Estudiar las ventajas y limitaciones de cada opción considerando recursos como tiempo y dinero",
+    "explanation": "La tercera fase implica estudiar cuidadosamente las ventajas y limitaciones, analizando recursos como tiempo, dinero, destrezas y energía.",
+    "meta": {
+      "original_question_number": 7,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema6_q8",
+    "type": "single_choice",
+    "question": "¿Qué se recomienda hacer antes de comunicar a otros una elección polémica en el proceso de decisión?",
+    "options": [
+      "Abandonar el proceso inmediatamente",
+      "Elaborar estrategias para evitar la desaprobación de los demás",
+      "No pensar en las dificultades futuras",
+      "Cambiar la elección por una menos polémica"
+    ],
+    "correct_answer": "Elaborar estrategias para evitar la desaprobación de los demás",
+    "explanation": "En la fase de Elección (cuarta fase), se aconseja elaborar estrategias para evitar la desaprobación si la elección es polémica.",
+    "meta": {
+      "original_question_number": 8,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema6_q9",
+    "type": "single_choice",
+    "question": "En la fase de Ejecución, ¿qué ocurre si se presentan desafíos o insatisfacciones serias?",
+    "options": [
+      "La decisión se vuelve irreversible por ley",
+      "Se debe ignorar el problema y continuar",
+      "Es posible abandonar la decisión y recorrer nuevamente las etapas con la experiencia aprendida",
+      "Se pierde el título obtenido"
+    ],
+    "correct_answer": "Es posible abandonar la decisión y recorrer nuevamente las etapas con la experiencia aprendida",
+    "explanation": "La fuente explica que ante desafíos serios es posible volver a etapas anteriores aprovechando la experiencia de lo aprendido.",
+    "meta": {
+      "original_question_number": 9,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema6_q10",
+    "type": "single_choice",
+    "question": "En el acrónimo VUCA, ¿a qué se refiere la letra 'V' (Volatility)?",
+    "options": [
+      "A la falta de claridad en los resultados",
+      "A la naturaleza impredecible y rapidez de los cambios en el entorno",
+      "A la fragilidad de las estructuras organizativas",
+      "A la dificultad para comprender la complejidad"
+    ],
+    "correct_answer": "A la naturaleza impredecible y rapidez de los cambios en el entorno",
+    "explanation": "VUCA Volatility (Volatilidad) se refiere a la naturaleza impredecible y la rapidez con la que pueden ocurrir cambios en el entorno.",
+    "meta": {
+      "original_question_number": 10,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema6_q11",
+    "type": "single_choice",
+    "question": "Dentro del modelo VUCA, ¿qué significa la 'U' (Uncertainty)?",
+    "options": [
+      "Incumplimiento de normativas",
+      "Incomprensión total de los datos",
+      "Incertidumbre: falta de claridad sobre el futuro y dificultad para predecir resultados",
+      "Unión de empresas multinacionales"
+    ],
+    "correct_answer": "Incertidumbre: falta de claridad sobre el futuro y dificultad para predecir resultados",
+    "explanation": "La 'U' de VUCA hace referencia a la incertidumbre (Uncertainty) y la falta de claridad futura.",
+    "meta": {
+      "original_question_number": 11,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema6_q12",
+    "type": "single_choice",
+    "question": "¿Qué concepto del modelo VUCA describe la interconexión y multiplicidad de factores intrincados en el entorno?",
+    "options": [
+      "Ambigüedad",
+      "Complejidad",
+      "Volatilidad",
+      "Fragilidad"
+    ],
+    "correct_answer": "Complejidad",
+    "explanation": "La Complejidad en VUCA se refiere a la interconexión de factores que pueden ser difíciles de manejar.",
+    "meta": {
+      "original_question_number": 12,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema6_q13",
+    "type": "single_choice",
+    "question": "¿A qué se refiere la 'A' de Ambigüedad en el contexto VUCA?",
+    "options": [
+      "A la rapidez de la tecnología",
+      "A la falta de claridad sobre la interpretación de la información o eventos",
+      "A la ansiedad de los trabajadores",
+      "Al análisis de costes de producción"
+    ],
+    "correct_answer": "A la falta de claridad sobre la interpretación de la información o eventos",
+    "explanation": "La Ambigüedad implica dificultad para distinguir entre lo relevante y lo irrelevante o lo correcto e incorrecto.",
+    "meta": {
+      "original_question_number": 13,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema6_q14",
+    "type": "single_choice",
+    "question": "En el modelo BANI, ¿qué significa la letra 'B' (Brittle)?",
+    "options": [
+      "Benéfico",
+      "Bilateral",
+      "Frágil (Brittle): estructuras que pueden romperse fácilmente ante cambios",
+      "Búsqueda activa"
+    ],
+    "correct_answer": "Frágil (Brittle): estructuras que pueden romperse fácilmente ante cambios",
+    "explanation": "BANI Brittle (Frágil) se refiere a sistemas que carecen de flexibilidad y capacidad de adaptación.",
+    "meta": {
+      "original_question_number": 14,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema6_q15",
+    "type": "single_choice",
+    "question": "¿Qué describe la 'A' (Anxious) en el modelo BANI?",
+    "options": [
+      "Adaptabilidad extrema",
+      "Ansioso: estado de preocupación por falta de seguridad y previsibilidad",
+      "Ahorro de capital",
+      "Ambiente laboral óptimo"
+    ],
+    "correct_answer": "Ansioso: estado de preocupación por falta de seguridad y previsibilidad",
+    "explanation": "La 'A' de BANI se refiere a la ansiedad que surge en entornos inciertos e inestables.",
+    "meta": {
+      "original_question_number": 15,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema6_q16",
+    "type": "single_choice",
+    "question": "¿Qué característica define la 'N' (Nonlinear) del modelo BANI?",
+    "options": [
+      "Niveles profesionales fijos",
+      "No lineal: pequeños cambios pueden tener efectos desproporcionados y difíciles de predecir",
+      "Negociación colectiva",
+      "Naturaleza digital de la empresa"
+    ],
+    "correct_answer": "No lineal: pequeños cambios pueden tener efectos desproporcionados y difíciles de predecir",
+    "explanation": "La 'N' de BANI describe la naturaleza no lineal de los cambios en los entornos actuales.",
+    "meta": {
+      "original_question_number": 16,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema6_q17",
+    "type": "single_choice",
+    "question": "¿Qué significa la 'I' (Incomprehensible) en el modelo BANI?",
+    "options": [
+      "Incapacidad física",
+      "Incomprensible: dificultad para entender completamente la complejidad y conexiones del entorno",
+      "Inserción laboral inmediata",
+      "Ingresos salariales elevados"
+    ],
+    "correct_answer": "Incomprensible: dificultad para entender completamente la complejidad y conexiones del entorno",
+    "explanation": "La 'I' de BANI se refiere a la dificultad de las organizaciones para anticipar y responder por la incomprensibilidad del entorno.",
+    "meta": {
+      "original_question_number": 17,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema6_q18",
+    "type": "single_choice",
+    "question": "¿Qué es la 'Economía Gig' según el material de estudio?",
+    "options": [
+      "Un sistema de grandes empresas multinacionales",
+      "Modelo laboral donde se realizan tareas temporales o proyectos independientes, a menudo vía plataformas online",
+      "La economía basada exclusivamente en el sector público",
+      "Un plan de pensiones privado para trabajadores de FP"
+    ],
+    "correct_answer": "Modelo laboral donde se realizan tareas temporales o proyectos independientes, a menudo vía plataformas online",
+    "explanation": "La fuente describe la economía gig como el trabajo independiente, freelance o por encargos/proyectos temporales.",
+    "meta": {
+      "original_question_number": 18,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema6_q19",
+    "type": "single_choice",
+    "question": "¿Cuál es un inconveniente del trabajo como funcionario según el esquema comparativo?",
+    "options": [
+      "Inestabilidad laboral",
+      "Carga de trabajo descontrolada",
+      "Remuneración baja que no suele negociarse al alza",
+      "Riesgo de pérdida de capital personal"
+    ],
+    "correct_answer": "Remuneración baja que no suele negociarse al alza",
+    "explanation": "El esquema de 'Trabajo como funcionario' lista como inconveniente la remuneración baja y la falta de negociación al alza.",
+    "meta": {
+      "original_question_number": 19,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema6_q20",
+    "type": "single_choice",
+    "question": "¿Cuál es una ventaja destacada del trabajo por cuenta propia (Autoempleo)?",
+    "options": [
+      "Salario seguro todos los meses",
+      "Satisfacción personal y auto-realización",
+      "No se asume ningún riesgo de capital",
+      "Tiempo de trabajo estrictamente limitado por contrato"
+    ],
+    "correct_answer": "Satisfacción personal y auto-realización",
+    "explanation": "En el esquema de 'Trabajo por cuenta propia', se cita la satisfacción personal y auto-realización como una ventaja.",
+    "meta": {
+      "original_question_number": 20,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema6_q21",
+    "type": "single_choice",
+    "question": "¿Cuál de estas acciones NO forma parte de la secuencia del proceso de búsqueda de empleo?",
+    "options": [
+      "Proyecto profesional (¿Qué trabajo busco?)",
+      "Localización de ofertas",
+      "Suscripción obligatoria a sindicatos",
+      "Entrar en el proceso de selección"
+    ],
+    "correct_answer": "Suscripción obligatoria a sindicatos",
+    "explanation": "La secuencia correcta es: Proyecto profesional, Localización de ofertas, Contactar, Proceso de selección y Contratación.",
+    "meta": {
+      "original_question_number": 21,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema6_q22",
+    "type": "single_choice",
+    "question": "¿Qué se entiende por 'canales de búsqueda de empleo pasivos'?",
+    "options": [
+      "Aquellos donde dejas la búsqueda en manos de terceros y esperas la oferta",
+      "Investigar mercados y empresas proactivamente",
+      "Personalizar cada currículum enviado",
+      "Realizar networking intensivo"
+    ],
+    "correct_answer": "Aquellos donde dejas la búsqueda en manos de terceros y esperas la oferta",
+    "explanation": "La fuente define los canales pasivos como dejar la búsqueda en manos de terceros y esperar a que te ofrezcan un puesto.",
+    "meta": {
+      "original_question_number": 22,
+      "correct_letter": "A"
+    },
+    "correct_index": 0
+  },
+  {
+    "id": "tema6_q23",
+    "type": "single_choice",
+    "question": "¿Qué caracteriza a la búsqueda de empleo activa?",
+    "options": [
+      "Revisar anuncios solo los domingos",
+      "Exige una actitud participativa e investigación de mercados y empresas",
+      "Envío masivo de currículums sin ningún tipo de seguimiento",
+      "Esperar a que llegue la oferta laboral por correo"
+    ],
+    "correct_answer": "Exige una actitud participativa e investigación de mercados y empresas",
+    "explanation": "La búsqueda activa requiere una actitud participativa, investigar mercados, personalizar herramientas y hacer seguimiento.",
+    "meta": {
+      "original_question_number": 23,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema6_q24",
+    "type": "single_choice",
+    "question": "Según el documento, ¿cuál de estos NO es un canal de búsqueda para estudiantes de FP por estar dirigido a universitarios?",
+    "options": [
+      "Servicio de bolsa de trabajo del centro educativo",
+      "Sistema Nacional de Empleo",
+      "Servicios de empleo que ofrecen las universidades",
+      "Webs especializadas en empleo"
+    ],
+    "correct_answer": "Servicios de empleo que ofrecen las universidades",
+    "explanation": "La autoevaluación indica que los servicios universitarios van dirigidos a quienes han realizado estudios universitarios, no específicamente a FP.",
+    "meta": {
+      "original_question_number": 24,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema6_q25",
+    "type": "single_choice",
+    "question": "¿En qué consiste la 'autocandidatura'?",
+    "options": [
+      "Registrarse en una ETT",
+      "Enviar el currículum y carta de forma espontánea a empresas del sector",
+      "Esperar a que el SEPE te llame",
+      "Inscribirse en una oferta pública de empleo"
+    ],
+    "correct_answer": "Enviar el currículum y carta de forma espontánea a empresas del sector",
+    "explanation": "La fuente define la autocandidatura como enviar currículum y carta de presentación de forma espontánea, considerándose un canal activo.",
+    "meta": {
+      "original_question_number": 25,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema6_q26",
+    "type": "single_choice",
+    "question": "¿Cuál es un ejemplo de portal de empleo mencionado como canal pasivo en el documento?",
+    "options": [
+      "Infojobs.net",
+      "Facebook personal",
+      "Agenda de contactos familiar",
+      "LinkedIn proactivo"
+    ],
+    "correct_answer": "Infojobs.net",
+    "explanation": "Infojobs se lista explícitamente dentro de los ejemplos de webs especializadas en empleo como canal pasivo.",
+    "meta": {
+      "original_question_number": 26,
+      "correct_letter": "A"
+    },
+    "correct_index": 0
+  },
+  {
+    "id": "tema6_q27",
+    "type": "single_choice",
+    "question": "¿Qué red social se menciona específicamente para unirse a grupos profesionales y participar en discusiones del sector?",
+    "options": [
+      "Instagram",
+      "LinkedIn",
+      "YouTube",
+      "Google+"
+    ],
+    "correct_answer": "LinkedIn",
+    "explanation": "El documento recomienda explícitamente LinkedIn para construir presencia en línea y participar en comunidades profesionales.",
+    "meta": {
+      "original_question_number": 27,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema6_q28",
+    "type": "single_choice",
+    "question": "¿Cuál es el objetivo principal de la carta de presentación y el currículum vitae?",
+    "options": [
+      "Garantizar un salario alto",
+      "Obtener una entrevista de trabajo",
+      "Sustituir a la entrevista personal",
+      "Explicar todos los problemas personales del candidato"
+    ],
+    "correct_answer": "Obtener una entrevista de trabajo",
+    "explanation": "La fuente afirma que el primer objetivo al preparar ambos documentos es obtener una entrevista de trabajo.",
+    "meta": {
+      "original_question_number": 28,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema6_q29",
+    "type": "single_choice",
+    "question": "¿Qué documento acompaña al currículum y sirve como introducción al empleador?",
+    "options": [
+      "La carta de motivación",
+      "La carta de presentación",
+      "El Elevator pitch",
+      "El contrato de formación"
+    ],
+    "correct_answer": "La carta de presentación",
+    "explanation": "La carta de presentación acompaña al currículum y se envía como introducción al potencial empleador.",
+    "meta": {
+      "original_question_number": 29,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema6_q30",
+    "type": "single_choice",
+    "question": "¿En qué se diferencia la carta de motivación de la de presentación?",
+    "options": [
+      "Es más corta y menos detallada",
+      "Es obligatoria para todos los puestos de trabajo privados",
+      "Se centra más en las pasiones, intereses, metas a largo plazo y visión del candidato",
+      "No incluye los datos de contacto"
+    ],
+    "correct_answer": "Se centra más en las pasiones, intereses, metas a largo plazo y visión del candidato",
+    "explanation": "La fuente especifica que la carta de motivación es más detallada y se enfoca en por qué el candidato está apasionado por el puesto o programa.",
+    "meta": {
+      "original_question_number": 30,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema6_q31",
+    "type": "single_choice",
+    "question": "¿Cómo se define el Curriculum Vitae (CV)?",
+    "options": [
+      "Un documento de aspiraciones futuras",
+      "Tu historial profesional y recopilación de datos académicos y experiencia",
+      "Una lista de referencias familiares",
+      "Un certificado de penales"
+    ],
+    "correct_answer": "Tu historial profesional y recopilación de datos académicos y experiencia",
+    "explanation": "El CV es el historial profesional que recopila datos académicos y de experiencia a lo largo de la vida de una persona.",
+    "meta": {
+      "original_question_number": 31,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema6_q32",
+    "type": "single_choice",
+    "question": "¿Qué tipo de currículum se está imponiendo en los últimos tiempos según el material?",
+    "options": [
+      "Cronológico estándar",
+      "Cronológico inverso",
+      "Funcional puro",
+      "Modelo manuscrito"
+    ],
+    "correct_answer": "Cronológico inverso",
+    "explanation": "El documento señala que, aunque existen varios tipos, en los últimos tiempos se está imponiendo el cronológico inverso.",
+    "meta": {
+      "original_question_number": 32,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema6_q33",
+    "type": "single_choice",
+    "question": "¿Qué es el 'Europass'?",
+    "options": [
+      "Un visado para trabajar fuera de la UE",
+      "Un modelo de currículum estándar para trabajar en países de la Unión Europea",
+      "Un curso de idiomas financiado por la UE",
+      "Un carnet de conducir internacional"
+    ],
+    "correct_answer": "Un modelo de currículum estándar para trabajar en países de la Unión Europea",
+    "explanation": "Europass se define como el modelo estándar de currículum para los países miembros de la UE.",
+    "meta": {
+      "original_question_number": 33,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema6_q34",
+    "type": "single_choice",
+    "question": "¿Qué nombre recibe la breve presentación de aproximadamente 60 segundos que busca despertar el interés sobre el profesional?",
+    "options": [
+      "Video-intro",
+      "Elevator pitch",
+      "Sprint profesional",
+      "Entrevista flash"
+    ],
+    "correct_answer": "Elevator pitch",
+    "explanation": "El Elevator pitch es una presentación corta y convincente para despertar el interés en el oyente de forma rápida.",
+    "meta": {
+      "original_question_number": 34,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema6_q35",
+    "type": "single_choice",
+    "question": "¿En qué consiste el modelo de currículum funcional?",
+    "options": [
+      "En ordenar los trabajos por fechas",
+      "En agrupar la experiencia por áreas temáticas o funciones desempeñadas",
+      "En enviar un archivo de audio",
+      "En no incluir la formación académica"
+    ],
+    "correct_answer": "En agrupar la experiencia por áreas temáticas o funciones desempeñadas",
+    "explanation": "El currículum funcional se organiza por funciones o bloques temáticos en lugar de cronológicamente.",
+    "meta": {
+      "original_question_number": 35,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema6_q36",
+    "type": "single_choice",
+    "question": "De acuerdo con el Grado de formación profesional, ¿qué corresponde al Grado D?",
+    "options": [
+      "Microformaciones",
+      "Certificados profesionales",
+      "Ciclos Formativos (Básico, Medio y Superior)",
+      "Cursos de especialización"
+    ],
+    "correct_answer": "Ciclos Formativos (Básico, Medio y Superior)",
+    "explanation": "El esquema de grados sitúa a los ciclos formativos dentro del Grado D.",
+    "meta": {
+      "original_question_number": 36,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema6_q37",
+    "type": "single_choice",
+    "question": "¿A qué grado pertenecen los cursos de especialización o másteres de FP?",
+    "options": [
+      "Grado A",
+      "Grado C",
+      "Grado E",
+      "Grado B"
+    ],
+    "correct_answer": "Grado E",
+    "explanation": "El esquema del nuevo modelo de FP asigna el Grado E a los cursos de especialización o másteres de FP.",
+    "meta": {
+      "original_question_number": 37,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema6_q38",
+    "type": "single_choice",
+    "question": "¿Cuál es la característica principal del Grado C en la nueva FP?",
+    "options": [
+      "Acreditación parcial de competencia",
+      "Certificado profesional (Niveles 1, 2 ó 3) e incluye prácticas",
+      "Estudios universitarios de doctorado",
+      "No requiere ninguna formación previa"
+    ],
+    "correct_answer": "Certificado profesional (Niveles 1, 2 ó 3) e incluye prácticas",
+    "explanation": "El Grado C hace referencia al certificado profesional e incluye prácticas en empresa.",
+    "meta": {
+      "original_question_number": 38,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema6_q39",
+    "type": "single_choice",
+    "question": "¿A qué se refieren las 'competencias digitales'?",
+    "options": [
+      "Únicamente a saber programar en código binario",
+      "Habilidades, conocimientos y actitudes para usar eficazmente las tecnologías en trabajo, educación y comunicación",
+      "A la compra de hardware de última generación",
+      "A la capacidad de jugar a videojuegos online"
+    ],
+    "correct_answer": "Habilidades, conocimientos y actitudes para usar eficazmente las tecnologías en trabajo, educación y comunicación",
+    "explanation": "La fuente las define como el conjunto de habilidades y actitudes para el uso crítico y eficaz de tecnologías digitales.",
+    "meta": {
+      "original_question_number": 39,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema6_q40",
+    "type": "single_choice",
+    "question": "Dentro de las competencias digitales, ¿en qué área se incluye la gestión de herramientas como el correo electrónico o Google Drive?",
+    "options": [
+      "Seguridad en la red",
+      "Información y alfabetización digital",
+      "Resolución de problemas",
+      "Creación de contenidos digitales"
+    ],
+    "correct_answer": "Información y alfabetización digital",
+    "explanation": "Esta área incluye la gestión de herramientas digitales como correo, calendarios y estrategias de búsqueda efectiva.",
+    "meta": {
+      "original_question_number": 40,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema6_q41",
+    "type": "single_choice",
+    "question": "¿En qué área de competencia digital se sitúa el uso de herramientas de comunicación síncrona como Teams, Skype o Slack?",
+    "options": [
+      "Seguridad en la red",
+      "Comunicación y colaboración",
+      "Resolución de problemas",
+      "Realidad aumentada"
+    ],
+    "correct_answer": "Comunicación y colaboración",
+    "explanation": "El área de 'Comunicación y colaboración' abarca el uso de herramientas de comunicación síncrona y trabajo colaborativo.",
+    "meta": {
+      "original_question_number": 41,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema6_q42",
+    "type": "single_choice",
+    "question": "¿Qué contenido forma parte del área 'Creación de contenidos digitales'?",
+    "options": [
+      "Funcionalidades de Office 365, impresión 3D y realidad aumentada",
+      "Instalación de antivirus",
+      "Configuración de routers",
+      "Gestión de nóminas en papel"
+    ],
+    "correct_answer": "Funcionalidades de Office 365, impresión 3D y realidad aumentada",
+    "explanation": "Esta área incluye herramientas para generar contenidos, licencias de uso, 3D y realidad aumentada.",
+    "meta": {
+      "original_question_number": 42,
+      "correct_letter": "A"
+    },
+    "correct_index": 0
+  },
+  {
+    "id": "tema6_q43",
+    "type": "single_choice",
+    "question": "¿Qué temas se tratan en el área de 'Seguridad en la red'?",
+    "options": [
+      "Diseño de logotipos",
+      "Protección de dispositivos móviles, robo de datos y ciberataques",
+      "Búsqueda de empleo en prensa local",
+      "Redacción de cartas de motivación"
+    ],
+    "correct_answer": "Protección de dispositivos móviles, robo de datos y ciberataques",
+    "explanation": "El área de seguridad aborda la protección de datos, blockchain para transacciones e identidad digital.",
+    "meta": {
+      "original_question_number": 43,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema6_q44",
+    "type": "single_choice",
+    "question": "¿A qué área de competencia digital pertenece la introducción a la metodología de trabajo SCRUM?",
+    "options": [
+      "Información y alfabetización",
+      "Creación de contenidos",
+      "Resolución de problemas",
+      "Comunicación digital"
+    ],
+    "correct_answer": "Resolución de problemas",
+    "explanation": "La introducción a metodologías ágiles como SCRUM se clasifica dentro del área de 'Resolución de problemas'.",
+    "meta": {
+      "original_question_number": 44,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema6_q45",
+    "type": "single_choice",
+    "question": "¿Cómo se denominan las metodologías de trabajo ágiles citadas en el área de resolución de problemas?",
+    "options": [
+      "Waterfall",
+      "Scrum",
+      "Tradicional",
+      "Manual"
+    ],
+    "correct_answer": "Scrum",
+    "explanation": "El texto cita específicamente a SCRUM como un ejemplo de metodología de trabajo ágil.",
+    "meta": {
+      "original_question_number": 45,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema6_q46",
+    "type": "single_choice",
+    "question": "¿Qué factor se menciona como influencia relevante en los contextos actuales de empleo?",
+    "options": [
+      "El retorno a la agricultura manual",
+      "El envejecimiento de la población y cambio demográfico",
+      "La prohibición total de la IA",
+      "La estabilidad absoluta del mercado"
+    ],
+    "correct_answer": "El envejecimiento de la población y cambio demográfico",
+    "explanation": "El mapa conceptual lista el envejecimiento de la población como un factor relevante en los contextos actuales.",
+    "meta": {
+      "original_question_number": 46,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema6_q47",
+    "type": "single_choice",
+    "question": "Según las pautas para buscar empleo, ¿qué se recomienda hacer después de una entrevista?",
+    "options": [
+      "Olvidar todo lo sucedido",
+      "Apuntar las impresiones y las preguntas difíciles",
+      "No realizar ningún tipo de seguimiento",
+      "Exigir la contratación inmediata por teléfono"
+    ],
+    "correct_answer": "Apuntar las impresiones y las preguntas difíciles",
+    "explanation": "La fuente aconseja apuntar impresiones y preguntas difíciles tras la entrevista para revisar errores.",
+    "meta": {
+      "original_question_number": 47,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema6_q48",
+    "type": "single_choice",
+    "question": "¿Cuál es un inconveniente del trabajo por cuenta ajena citado en el material?",
+    "options": [
+      "Dedicación de mucho tiempo personal",
+      "Inestabilidad laboral",
+      "Asunción de riesgos de capital elevados",
+      "Resolución de conflictos entre socios"
+    ],
+    "correct_answer": "Inestabilidad laboral",
+    "explanation": "La tabla comparativa señala la inestabilidad laboral como un inconveniente del trabajo por cuenta ajena.",
+    "meta": {
+      "original_question_number": 48,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema6_q49",
+    "type": "single_choice",
+    "question": "¿Qué fase del proceso de búsqueda de empleo se asocia con las pruebas psicotécnicas y entrevistas?",
+    "options": [
+      "Proyecto profesional",
+      "Proceso de selección",
+      "Contratación",
+      "Localización de ofertas"
+    ],
+    "correct_answer": "Proceso de selección",
+    "explanation": "Las entrevistas y psicotécnicos son componentes de la fase 'Entrar en el proceso de selección'.",
+    "meta": {
+      "original_question_number": 49,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema6_q50",
+    "type": "single_choice",
+    "question": "Al finalizar el ciclo, si deseas realizar estudios universitarios, ¿qué se te podría exigir previamente?",
+    "options": [
+      "Una nota de acceso determinada",
+      "Haber trabajado 5 años",
+      "Tener una empresa propia",
+      "Un certificado de voluntariado obligatorio"
+    ],
+    "correct_answer": "Una nota de acceso determinada",
+    "explanation": "El documento advierte que para estudios universitarios es necesario conocer si se exige una nota de acceso.",
+    "meta": {
+      "original_question_number": 50,
+      "correct_letter": "A"
+    },
+    "correct_index": 0
+  },
+  {
+  "id":"tema5_q1",
+  "type":"single_choice",
+  "question":"¿Cómo define el material de estudio la auto-orientación profesional?",
+  "options":["Un suceso puntual de recopilación de información para elegir profesión.","Un proceso a través del cual nos dotamos de instrumentos e información para elaborar alternativas profesionales.","La capacidad innata de elegir intuitivamente la mejor salida laboral.","Un registro administrativo obligatorio en el centro educativo."],
+  "correct_answer":"Un proceso a través del cual nos dotamos de instrumentos e información para elaborar alternativas profesionales.",
+  "explanation":"Según la fuente, la auto-orientación profesional es un proceso (no un suceso) continuo mediante el cual la persona obtiene instrumentos e información para elaborar, evaluar y elegir alternativas para su carrera.",
+  "meta":{"original_question_number":1,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema5_q2",
+  "type":"single_choice",
+  "question":"¿Qué característica temporal define a la auto-orientación profesional según la autoevaluación?",
+  "options":["Ocurre solo una vez al finalizar el ciclo formativo.","Es un suceso estático que no cambia con el tiempo.","No sucede, siempre está sucediendo; es un proceso, no un suceso.","Solo es necesaria antes de cumplir los 18 años."],
+  "correct_answer":"No sucede, siempre está sucediendo; es un proceso, no un suceso.",
+  "explanation":"La retroalimentación de la autoevaluación indica claramente que la auto-orientación 'no sucede, siempre está sucediendo' y enfatiza que es un proceso continuo.",
+  "meta":{"original_question_number":2,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema5_q3",
+  "type":"single_choice",
+  "question":"¿A qué hace referencia el concepto de 'carrera profesional' según Arthur, Hall y Lawrence?",
+  "options":["Al título universitario de grado superior.","A la secuencia evolutiva de experiencias en el trabajo de una persona a lo largo del tiempo.","Únicamente a los años trabajados en una misma empresa.","Al éxito económico alcanzado al final de la vida laboral."],
+  "correct_answer":"A la secuencia evolutiva de experiencias en el trabajo de una persona a lo largo del tiempo.",
+  "explanation":"El material cita a estos autores para definir la carrera profesional como la secuencia evolutiva de experiencias laborales y puestos ocupados a lo largo de la vida.",
+  "meta":{"original_question_number":3,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema5_q4",
+  "type":"single_choice",
+  "question":"¿Quiénes tienen carrera profesional según la aclaración del tema?",
+  "options":["Solo las personas con estudios universitarios.","Exclusivamente los altos directivos de empresas.","Todos los que se dedican a trabajar gran parte de su vida y van evolucionando.","Solo los funcionarios del Estado."],
+  "correct_answer":"Todos los que se dedican a trabajar gran parte de su vida y van evolucionando.",
+  "explanation":"La fuente desmiente que solo los universitarios tengan carrera; afirma que la tienen todos los trabajadores que evolucionan hacia diferentes objetivos profesionales.",
+  "meta":{"original_question_number":4,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema5_q5",
+  "type":"single_choice",
+  "question":"Dentro del autoconocimiento, ¿qué son los 'intereses'?",
+  "options":["Las razones que nos impulsan a buscar ciertos objetivos.","Actividades, temas o áreas que captan nuestra atención y generan entusiasmo.","Habilidades técnicas demostrables mediante certificaciones.","Capacidades aprendidas para realizar tareas concretas."],
+  "correct_answer":"Actividades, temas o áreas que captan nuestra atención y generan entusiasmo.",
+  "explanation":"La fuente define los intereses como aquellas áreas o temas que despiertan curiosidad o entusiasmo, pudiendo ser personales o profesionales.",
+  "meta":{"original_question_number":5,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema5_q6",
+  "type":"single_choice",
+  "question":"¿Qué diferencia a una motivación 'intrínseca' de una 'extrínseca'?",
+  "options":["La intrínseca proviene del exterior (salario) y la extrínseca del interior (aprender).","No hay diferencia, son sinónimos.","La intrínseca proviene del interior (deseo de aprender) y la extrínseca del exterior (reconocimiento social).","La intrínseca es obligatoria por ley y la extrínseca es opcional."],
+  "correct_answer":"La intrínseca proviene del interior (deseo de aprender) y la extrínseca del exterior (reconocimiento social).",
+  "explanation":"El material explica que las motivaciones intrínsecas nacen del interior del individuo, mientras que las extrínsecas dependen de factores externos como el reconocimiento social.",
+  "meta":{"original_question_number":6,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema5_q7",
+  "type":"single_choice",
+  "question":"¿Cómo se definen las 'habilidades' en el contexto laboral?",
+  "options":["Cualidades innatas con las que se nace.","Capacidades aprendidas que una persona desarrolla para llevar a cabo tareas concretas.","Títulos académicos oficiales emitidos por el Ministerio.","Puestos de trabajo ocupados en el pasado."],
+  "correct_answer":"Capacidades aprendidas que una persona desarrolla para llevar a cabo tareas concretas.",
+  "explanation":"Según el texto, las habilidades son capacidades aprendidas para ejecutar tareas, clasificándose en técnicas (hard) o blandas (soft).",
+  "meta":{"original_question_number":7,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema5_q8",
+  "type":"single_choice",
+  "question":"¿Qué caracteriza a las habilidades duras o 'hard skills'?",
+  "options":["Son atributos personales imposibles de cuantificar.","Son habilidades técnicas cuantificables y fácilmente demostrables mediante títulos.","Se refieren únicamente a la fuerza física del trabajador.","Son esenciales para la interacción social pero no para la tarea."],
+  "correct_answer":"Son habilidades técnicas cuantificables y fácilmente demostrables mediante títulos.",
+  "explanation":"El material indica que las hard skills son técnicas, cuantificables y demostrables a través de certificados, formación o experiencia laboral concreta.",
+  "meta":{"original_question_number":8,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema5_q9",
+  "type":"single_choice",
+  "question":"¿Cuál de los siguientes es un ejemplo de 'hard skill' según la clasificación del tema?",
+  "options":["Empatía.","Resolución de conflictos.","Gestión de bases de datos.","Liderazgo."],
+  "correct_answer":"Gestión de bases de datos.",
+  "explanation":"En la lista proporcionada por el material, la gestión de bases de datos, programación y análisis de datos se clasifican como hard skills.",
+  "meta":{"original_question_number":9,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema5_q10",
+  "type":"single_choice",
+  "question":"¿Qué son las habilidades blandas o 'soft skills'?",
+  "options":["Conocimientos avanzados de software informático.","Atributos personales esenciales para el éxito laboral y la interacción social.","Habilidades que solo se aprenden en la universidad.","Certificaciones técnicas de corta duración."],
+  "correct_answer":"Atributos personales esenciales para el éxito laboral y la interacción social.",
+  "explanation":"Las soft skills se definen como atributos personales no necesariamente técnicos pero cruciales para interactuar con otros y tener éxito en el entorno laboral.",
+  "meta":{"original_question_number":10,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema5_q11",
+  "type":"single_choice",
+  "question":"¿Cuál de estas es una 'soft skill' según el ejercicio resuelto del tema?",
+  "options":["Blockchain.","Marketing SEO.","Adaptabilidad.","Desarrollo de aplicaciones móviles."],
+  "correct_answer":"Adaptabilidad.",
+  "explanation":"El material clasifica la adaptabilidad, integridad, pensamiento crítico y liderazgo como soft skills.",
+  "meta":{"original_question_number":11,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema5_q12",
+  "type":"single_choice",
+  "question":"¿Por qué las empresas valoran tanto las habilidades blandas?",
+  "options":["Porque permiten pagar salarios más bajos.","Porque sustituyen por completo a la formación técnica.","Porque complementan y refuerzan las habilidades técnicas contribuyendo al éxito a largo plazo.","Porque son obligatorias para obtener subvenciones públicas."],
+  "correct_answer":"Porque complementan y refuerzan las habilidades técnicas contribuyendo al éxito a largo plazo.",
+  "explanation":"El texto afirma que estas habilidades son muy valoradas porque complementan las técnicas y favorecen el éxito personal y profesional.",
+  "meta":{"original_question_number":12,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema5_q13",
+  "type":"single_choice",
+  "question":"Para realizar un 'Balance Personal' coherente, ¿qué instrumento propone el tema?",
+  "options":["Una entrevista con el psicólogo de la empresa.","El Currículum Extenso o Currículum en Bruto.","Un examen de conocimientos técnicos.","La firma del contrato de trabajo."],
+  "correct_answer":"El Currículum Extenso o Currículum en Bruto.",
+  "explanation":"El tema propone utilizar el Currículum Extenso como un análisis minucioso de capacidades profesionales para el balance personal.",
+  "meta":{"original_question_number":13,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema5_q14",
+  "type":"single_choice",
+  "question":"En el Currículum Extenso, ¿qué debe incluirse en 'Datos Académicos'?",
+  "options":["Solo el título de FP que se está cursando.","Desde el colegio hasta el último título, especificando fechas, centro y calificaciones medias.","Únicamente los cursos realizados en el último año.","Solo la formación no reglada o complementaria."],
+  "correct_answer":"Desde el colegio hasta el último título, especificando fechas, centro y calificaciones medias.",
+  "explanation":"El apartado de datos académicos del currículum extenso requiere un recorrido completo desde la etapa escolar inicial hasta la actual.",
+  "meta":{"original_question_number":14,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema5_q15",
+  "type":"single_choice",
+  "question":"¿Qué tipo de actividades se incluyen en 'Experiencia con contenido Profesional' dentro del currículum extenso?",
+  "options":["Trabajos remunerados en empresas privadas únicamente.","Práctica de deportes, ayuda en negocio familiar, voluntariado o actividades asociativas.","Viajes de ocio realizados con amigos.","Cualquier hobby que no tenga ninguna relación con el trabajo."],
+  "correct_answer":"Práctica de deportes, ayuda en negocio familiar, voluntariado o actividades asociativas.",
+  "explanation":"Este apartado busca experiencias con valor profesional aunque no hayan sido empleos remunerados tradicionales.",
+  "meta":{"original_question_number":15,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema5_q16",
+  "type":"single_choice",
+  "question":"¿Qué valor fundamental tiene la realización del currículum extenso?",
+  "options":["Valor comercial para publicidad.","Valor de autoconocimiento.","Valor jurídico para juicios laborales.","Valor económico para pedir préstamos."],
+  "correct_answer":"Valor de autoconocimiento.",
+  "explanation":"El texto destaca que el currículum extenso tiene fundamentalmente un valor de autoconocimiento y requiere total sinceridad.",
+  "meta":{"original_question_number":16,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema5_q17",
+  "type":"single_choice",
+  "question":"¿En qué consiste definir un 'objetivo profesional'?",
+  "options":["En ganar el máximo dinero posible en el menor tiempo.","En describir ocupaciones o puestos de trabajo en función de capacidades, intereses y mercado.","En esperar a que una empresa nos llame para ofrecernos un puesto.","En obtener todos los títulos de una misma familia profesional."],
+  "correct_answer":"En describir ocupaciones o puestos de trabajo en función de capacidades, intereses y mercado.",
+  "explanation":"Definir el objetivo profesional es concretar qué se busca alineando el perfil personal con las realidades del mercado.",
+  "meta":{"original_question_number":17,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema5_q18",
+  "type":"single_choice",
+  "question":"¿Cuál es una característica necesaria de un objetivo profesional?",
+  "options":["Debe ser inalcanzable para mantener la motivación alta.","Ha de ser realista y alcanzable.","Debe ser totalmente rígido y no cambiar nunca.","No debe considerar la situación del mercado."],
+  "correct_answer":"Ha de ser realista y alcanzable.",
+  "explanation":"El material advierte que objetivos demasiado ambiciosos pueden desmotivar, por lo que deben ser realistas y alcanzables.",
+  "meta":{"original_question_number":18,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema5_q19",
+  "type":"single_choice",
+  "question":"¿En qué secuencia temporal suele apoyarse un objetivo profesional?",
+  "options":["Cada mes.","A los 10, 20 y 30 años.","A uno, tres y cinco años.","A más de diez años siempre."],
+  "correct_answer":"A uno, tres y cinco años.",
+  "explanation":"Se recomienda determinar metas a corto (1 año), medio (3 años) y largo plazo (5 años).",
+  "meta":{"original_question_number":19,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema5_q20",
+  "type":"single_choice",
+  "question":"¿Qué plazo máximo se recomienda para fijar objetivos profesionales?",
+  "options":["No más de 6 meses.","No conviene fijarse objetivos superiores a cinco años.","Mínimo 15 años.","Toda la vida hasta la jubilación."],
+  "correct_answer":"No conviene fijarse objetivos superiores a cinco años.",
+  "explanation":"El material especifica textualmente que 'no conviene fijarse objetivos superiores a cinco años'.",
+  "meta":{"original_question_number":20,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema5_q21",
+  "type":"single_choice",
+  "question":"¿Para qué sirve la matriz DAFO en la búsqueda de empleo?",
+  "options":["Para calcular el salario bruto anual de forma exacta.","Para evaluar la situación de búsqueda de empleo mediante factores internos y externos.","Es un documento que sustituye al contrato de trabajo.","Solo sirve para emprendedores que quieren abrir una tienda."],
+  "correct_answer":"Para evaluar la situación de búsqueda de empleo mediante factores internos y externos.",
+  "explanation":"La matriz DAFO es una herramienta útil para evaluar la situación profesional cruzando debilidades, amenazas, fortalezas y oportunidades.",
+  "meta":{"original_question_number":21,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema5_q22",
+  "type":"single_choice",
+  "question":"En la matriz DAFO, ¿qué son las 'Debilidades'? (D)",
+  "options":["Aspectos positivos internos.","Factores externos negativos del mercado.","Aspectos internos negativos que pueden obstaculizar la búsqueda (ej. falta de experiencia).","Becas y ayudas externas para formación."],
+  "correct_answer":"Aspectos internos negativos que pueden obstaculizar la búsqueda (ej. falta de experiencia).",
+  "explanation":"Las debilidades son los puntos negativos o carencias del propio profesional, como la falta de idiomas o experiencia.",
+  "meta":{"original_question_number":22,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema5_q23",
+  "type":"single_choice",
+  "question":"¿Qué representa una 'Amenaza' (A) en el análisis DAFO?",
+  "options":["Tener muchos títulos académicos.","Factores externos que podrían dificultar la búsqueda (competencia, crisis económica).","Cualidades personales como la creatividad.","Estar muy motivado por aprender."],
+  "correct_answer":"Factores externos que podrían dificultar la búsqueda (competencia, crisis económica).",
+  "explanation":"Las amenazas son elementos del entorno ajenos al sujeto que pueden perjudicarle, como la alta competencia en su sector.",
+  "meta":{"original_question_number":23,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema5_q24",
+  "type":"single_choice",
+  "question":"¿Qué son las 'Fortalezas' (F) en la matriz DAFO?",
+  "options":["Puntos fuertes y activos internos (educación, habilidades, logros).","Demandas crecientes de profesionales en el sector.","Subvenciones del gobierno para contratar jóvenes.","Cualquier factor del entorno que sea favorable."],
+  "correct_answer":"Puntos fuertes y activos internos (educación, habilidades, logros).",
+  "explanation":"Las fortalezas son los activos positivos internos que posee la persona.",
+  "meta":{"original_question_number":24,"correct_letter":"A"},
+  "correct_index":0
+  },
+  {
+  "id":"tema5_q25",
+  "type":"single_choice",
+  "question":"En el DAFO, las 'Oportunidades' (O) se definen como:",
+  "options":["Cualidades de liderazgo y trabajo en equipo.","Factores externos positivos que pueden beneficiar la búsqueda (apertura de empresas, demanda de perfiles).","Faltas de experiencia que debemos corregir.","Competencia muy alta en el campo profesional."],
+  "correct_answer":"Factores externos positivos que pueden beneficiar la búsqueda (apertura de empresas, demanda de perfiles).",
+  "explanation":"Las oportunidades son factores del entorno que el profesional puede aprovechar para mejorar su situación.",
+  "meta":{"original_question_number":25,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema5_q26",
+  "type":"single_choice",
+  "question":"¿En qué consiste la estrategia de 'Superar Debilidades con Oportunidades'?",
+  "options":["Ignorar lo que no sabemos hacer y esperar suerte.","Trabajar en mejorar debilidades aprovechando oportunidades externas (ej. hacer un curso demandado).","Proteger los puntos fuertes contra las amenazas.","Maximizar las fortalezas en un mercado sin competencia."],
+  "correct_answer":"Trabajar en mejorar debilidades aprovechando oportunidades externas (ej. hacer un curso demandado).",
+  "explanation":"Esta estrategia busca usar los recursos o tendencias favorables del entorno para paliar las carencias propias.",
+  "meta":{"original_question_number":26,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema5_q27",
+  "type":"single_choice",
+  "question":"Según la Ley Orgánica 3/2022, ¿en cuántos grados se estructura la nueva FP?",
+  "options":["En tres niveles (1, 2 y 3).","En dos bloques (teoría y práctica).","En cinco grados (A, B, C, D y E).","En diez módulos profesionales."],
+  "correct_answer":"En cinco grados (A, B, C, D y E).",
+  "explanation":"El nuevo modelo de formación profesional se organiza en una estructura de cinco grados que van desde la microformación hasta la especialización.",
+  "meta":{"original_question_number":27,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema5_q28",
+  "type":"single_choice",
+  "question":"¿Qué formación se incluye dentro del Grado D en el nuevo sistema?",
+  "options":["Microformaciones de corta duración.","Certificados de competencia.","Ciclos Formativos (Básico, Medio y Superior).","Cursos de especialización o másteres de FP."],
+  "correct_answer":"Ciclos Formativos (Básico, Medio y Superior).",
+  "explanation":"El Grado D corresponde a los ciclos formativos que ya se conocían (básico, medio y superior).",
+  "meta":{"original_question_number":28,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema5_q29",
+  "type":"single_choice",
+  "question":"¿A qué grado corresponden los Cursos de Especialización o Másteres de FP?",
+  "options":["Grado A.","Grado C.","Grado D.","Grado E."],
+  "correct_answer":"Grado E.",
+  "explanation":"La formación de especialización para titulados de FP se encuadra en el Grado E.",
+  "meta":{"original_question_number":29,"correct_letter":"D"},
+  "correct_index":3
+  },
+  {
+  "id":"tema5_q30",
+  "type":"single_choice",
+  "question":"¿Qué grado corresponde al 'Certificado Profesional'?",
+  "options":["Grado B.","Grado C.","Grado D.","Grado E."],
+  "correct_answer":"Grado C.",
+  "explanation":"El Grado C hace referencia al Certificado Profesional, que incluye prácticas en empresa.",
+  "meta":{"original_question_number":30,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema5_q31",
+  "type":"single_choice",
+  "question":"Los Ciclos Formativos de Grado Medio (CFGM) se encuadran en la:",
+  "options":["Educación secundaria obligatoria.","Educación secundaria postobligatoria.","Enseñanza superior.","Educación primaria de adultos."],
+  "correct_answer":"Educación secundaria postobligatoria.",
+  "explanation":"El material especifica que los CFGM pertenecen a la educación secundaria postobligatoria.",
+  "meta":{"original_question_number":31,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema5_q32",
+  "type":"single_choice",
+  "question":"¿Dónde se encuadran los Ciclos Formativos de Grado Superior (CFGS)?",
+  "options":["Educación básica.","Educación secundaria postobligatoria.","Enseñanza superior.","Solo formación para el empleo."],
+  "correct_answer":"Enseñanza superior.",
+  "explanation":"A diferencia del grado medio, los ciclos de grado superior están encuadrados dentro de la enseñanza superior.",
+  "meta":{"original_question_number":32,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema5_q33",
+  "type":"single_choice",
+  "question":"¿Quién desarrolla los currículos de los títulos de FP para atender a las características de cada territorio?",
+  "options":["El Gobierno Central únicamente.","Cada instituto de forma independiente.","Cada una de las Comunidades Autónomas.","La Unión Europea directamente."],
+  "correct_answer":"Cada una de las Comunidades Autónomas.",
+  "explanation":"Aunque el título es aprobado por Real Decreto nacional, cada Comunidad Autónoma desarrolla sus propios currículos basados en su territorio.",
+  "meta":{"original_question_number":33,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema5_q34",
+  "type":"single_choice",
+  "question":"¿Qué validez geográfica tiene un título de FP obtenido en España?",
+  "options":["Solo en la provincia donde se estudió.","Únicamente en la Comunidad Autónoma que emitió el título.","En todo el Estado español y Estados miembros de la UE.","Solo es válido si se convalida en Madrid."],
+  "correct_answer":"En todo el Estado español y Estados miembros de la UE.",
+  "explanation":"El título tiene carácter oficial y validez en toda España, además de reconocimiento en la Unión Europea.",
+  "meta":{"original_question_number":34,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema5_q35",
+  "type":"single_choice",
+  "question":"¿Cuántos niveles de cualificación profesional existen en total según el sistema español?",
+  "options":["3 niveles.","5 niveles.","10 niveles.","Un nivel por cada año de estudio."],
+  "correct_answer":"5 niveles.",
+  "explanation":"El sistema clasifica las cualificaciones en 5 niveles profesionales según su complejidad.",
+  "meta":{"original_question_number":35,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema5_q36",
+  "type":"single_choice",
+  "question":"¿A qué nivel de cualificación corresponden los Ciclos Formativos de Grado Básico?",
+  "options":["Nivel 1.","Nivel 2.","Nivel 3.","Nivel 4."],
+  "correct_answer":"Nivel 1.",
+  "explanation":"Las cualificaciones de Grado Básico se asocian al Nivel 1, caracterizado por actividades simples en procesos normalizados.",
+  "meta":{"original_question_number":36,"correct_letter":"A"},
+  "correct_index":0
+  },
+  {
+  "id":"tema5_q37",
+  "type":"single_choice",
+  "question":"¿Qué nivel de cualificación ostenta un Técnico de Grado Medio?",
+  "options":["Nivel 1.","Nivel 2.","Nivel 3.","Nivel 4."],
+  "correct_answer":"Nivel 2.",
+  "explanation":"Los Ciclos Formativos de Grado Medio corresponden al Nivel 2 de cualificación profesional.",
+  "meta":{"original_question_number":37,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema5_q38",
+  "type":"single_choice",
+  "question":"¿Cuál es el nivel de cualificación de los Ciclos Formativos de Grado Superior?",
+  "options":["Nivel 2.","Nivel 3.","Nivel 4.","Nivel 5."],
+  "correct_answer":"Nivel 3.",
+  "explanation":"Los Técnicos Superiores alcanzan el Nivel 3 de cualificación, que implica responsabilidad de supervisión de trabajo técnico especializado.",
+  "meta":{"original_question_number":38,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema5_q39",
+  "type":"single_choice",
+  "question":"¿A qué corresponden los niveles 4 y 5 de cualificación profesional?",
+  "options":["A cursos de especialización de FP.","A estudios universitarios.","A la experiencia laboral sin estudios.","A la jubilación."],
+  "correct_answer":"A estudios universitarios.",
+  "explanation":"El material aclara que, por el momento, los niveles 4 y 5 están reservados para la formación universitaria.",
+  "meta":{"original_question_number":39,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema5_q40",
+  "type":"single_choice",
+  "question":"¿Qué diferencia fundamental hay entre el Título de FP y el Certificado de Profesionalidad?",
+  "options":["El título es solo para empresas privadas y el certificado para públicas.","El título lo emite Educación con efectos académicos; el certificado acredita en cualificaciones concretas (formación para el empleo).","No hay ninguna diferencia, son el mismo documento.","El certificado es vitalicio y el título caduca."],
+  "correct_answer":"El título lo emite Educación con efectos académicos; el certificado acredita en cualificaciones concretas (formación para el empleo).",
+  "explanation":"El Título de FP tiene efectos académicos y acredita en varias cualificaciones de una familia, mientras que el certificado se enfoca en la formación para el empleo.",
+  "meta":{"original_question_number":40,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema5_q41",
+  "type":"single_choice",
+  "question":"¿Qué organismo determina el Catálogo Nacional de Cualificaciones Profesionales (CNCP)?",
+  "options":["El Servicio Público de Empleo Estatal (SEPE).","El Instituto Nacional de Cualificaciones (INCUAL).","La Tesorería General de la Seguridad Social.","El sindicato mayoritario."],
+  "correct_answer":"El Instituto Nacional de Cualificaciones (INCUAL).",
+  "explanation":"El INCUAL es el encargado de determinar y actualizar el CNCP basándose en el análisis del sistema productivo.",
+  "meta":{"original_question_number":41,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema5_q42",
+  "type":"single_choice",
+  "question":"¿Qué es la 'Cualificación profesional' según la definición formal?",
+  "options":["El sueldo que recibe un trabajador según su rango.","Conjunto de competencias con significación para el empleo que pueden adquirirse por formación o experiencia.","La nota media obtenida en el ciclo formativo.","El carnet de conducir camiones pesados."],
+  "correct_answer":"Conjunto de competencias con significación para el empleo que pueden adquirirse por formación o experiencia.",
+  "explanation":"Se define como el grupo de competencias profesionales, personales y sociales que permiten responder a puestos de trabajo con valor de mercado.",
+  "meta":{"original_question_number":42,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema5_q43",
+  "type":"single_choice",
+  "question":"¿Qué se entiende por 'competencia' en el ámbito laboral?",
+  "options":["La rivalidad entre compañeros por un ascenso.","Conjunto de conocimientos y capacidades que permiten el ejercicio de la actividad profesional conforme a las exigencias.","El número de empresas que venden el mismo producto.","Tener un título universitario de doctorado."],
+  "correct_answer":"Conjunto de conocimientos y capacidades que permiten el ejercicio de la actividad profesional conforme a las exigencias.",
+  "explanation":"La competencia es la capacidad efectiva de aplicar conocimientos y habilidades para cumplir los requerimientos de la producción y el empleo.",
+  "meta":{"original_question_number":43,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema5_q44",
+  "type":"single_choice",
+  "question":"Para buscar información legal sobre un título de FP y sus salidas, ¿qué web oficial recomienda el Ministerio?",
+  "options":["Infojobs.","LinkedIn.","TodoFP.","Google Jobs."],
+  "correct_answer":"TodoFP.",
+  "explanation":"El ejercicio resuelto indica que los pasos comienzan siempre en la web de TodoFP del Ministerio de Educación y Formación Profesional.",
+  "meta":{"original_question_number":44,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema5_q45",
+  "type":"single_choice",
+  "question":"¿Qué incluye el 'Diseño curricular básico' de un ciclo formativo?",
+  "options":["Solo la lista de libros recomendados.","Módulos profesionales asociados a estándares y módulos transversales (como IPE I y II).","Únicamente el horario de clases.","El nombre de los profesores que imparten el ciclo."],
+  "correct_answer":"Módulos profesionales asociados a estándares y módulos transversales (como IPE I y II).",
+  "explanation":"El diseño curricular especifica los módulos que componen el título, tanto los técnicos como los de orientación y empleabilidad.",
+  "meta":{"original_question_number":45,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema5_q46",
+  "type":"single_choice",
+  "question":"¿Qué es la 'Fase de Formación en Empresas' (FFE) en los nuevos ciclos?",
+  "options":["Un examen teórico final ante un tribunal.","Aprendizajes teórico-prácticos en una empresa durante el primer y segundo curso.","Un curso de verano opcional.","Solo para alumnos que no aprueban los módulos en el centro."],
+  "correct_answer":"Aprendizajes teórico-prácticos en una empresa durante el primer y segundo curso.",
+  "explanation":"La FFE permite adquirir competencias en un entorno laboral real completando los resultados de aprendizaje de los módulos.",
+  "meta":{"original_question_number":46,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema5_q47",
+  "type":"single_choice",
+  "question":"¿Qué caracteriza a la 'Formación Profesional Intensiva'?",
+  "options":["Estudiar 10 horas diarias en el instituto.","Alternar formación en centro y empresa con actividad productiva y contrato retribuido.","Hacer el ciclo en solo seis meses.","No tener vacaciones de Navidad."],
+  "correct_answer":"Alternar formación en centro y empresa con actividad productiva y contrato retribuido.",
+  "explanation":"La modalidad intensiva implica un mayor porcentaje de tiempo en la empresa (superior al 35%) y vinculación mediante contrato de formación.",
+  "meta":{"original_question_number":47,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema5_q48",
+  "type":"single_choice",
+  "question":"¿Cuál es la fuente de datos de empleo más importante que se elabora en España?",
+  "options":["La Encuesta de Población Activa (EPA).","Los anuncios de la prensa local.","Las redes sociales de las empresas.","El registro de matrículas de FP."],
+  "correct_answer":"La Encuesta de Población Activa (EPA).",
+  "explanation":"El material identifica a la EPA, elaborada trimestralmente por el INE, como la fuente estadística más relevante sobre el mercado laboral.",
+  "meta":{"original_question_number":48,"correct_letter":"A"},
+  "correct_index":0
+  },
+  {
+  "id":"tema5_q49",
+  "type":"single_choice",
+  "question":"En el plan de acción para buscar empleo, ¿qué significa 'identificar los ámbitos de mejora'?",
+  "options":["Saber qué compañeros de clase nos caen mejor.","Detectar necesidades de formación especializada, idiomas, informática o capacidades personales.","Elegir qué ropa nos pondremos para la entrevista.","Saber qué empresa paga más."],
+  "correct_answer":"Detectar necesidades de formación especializada, idiomas, informática o capacidades personales.",
+  "explanation":"Identificar ámbitos de mejora es reconocer qué nos falta para alcanzar nuestro objetivo profesional y planificar cómo adquirirlo.",
+  "meta":{"original_question_number":49,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema5_q50",
+  "type":"single_choice",
+  "question":"¿Qué es el 'Networking' según el material?",
+  "options":["Trabajar exclusivamente desde casa con internet.","Construir y nutrir una red profesional a través de eventos, conferencias y plataformas online.","Un nuevo lenguaje de programación para bases de datos.","Un modelo de contrato temporal."],
+  "correct_answer":"Construir y nutrir una red profesional a través de eventos, conferencias y plataformas online.",
+  "explanation":"El networking es la gestión activa de contactos profesionales para intercambiar información y encontrar oportunidades laborales.",
+  "meta":{"original_question_number":50,"correct_letter":"B"},
+  "correct_index":1
+  }   
+  ]
 }
