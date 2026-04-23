@@ -1,0 +1,515 @@
+{
+  "settings": {
+    "show_explanation": true,
+    "shuffle_questions": true,
+    "shuffle_options": true,
+    "show_progress": true
+  },
+  "questions": [
+{ 
+"id":"tema1_q1", 
+"type":"single_choice", 
+"question":"¿Cómo se define el mercado de trabajo o mercado laboral?", 
+"options":["La unión entre la oferta de empleo por parte de las empresas y administraciones, y la demanda de empleo por parte de quien busca trabajo.","El conjunto de oficinas del Servicio Público de Empleo Estatal que gestionan las plazas fijas.","Un proceso de formación obligatoria para acceder a un puesto de funcionario público.","Un sistema gestionado exclusivamente por las administraciones públicas para asignar puestos."], 
+"correct_answer":"La unión entre la oferta de empleo por parte de las empresas y administraciones, y la demanda de empleo por parte de quien busca trabajo.", 
+"explanation":"Según la fuente, el mercado de trabajo es la unión entre la oferta de las empresas (sector privado) y administraciones (sector público) y la demanda de quienes buscan trabajo. La fuente aclara que no es solo el SEPE y que se gestiona por todos sus integrantes, no solo por el sector público.", 
+"meta":{"original_question_number":1,"correct_letter":"A"}, 
+"correct_index":0 
+}, 
+{ 
+"id":"tema1_q2", 
+"type":"single_choice", 
+"question":"¿Quiénes gestionan el mercado de trabajo?", 
+"options":["Únicamente el Gobierno Central.","Las empresas privadas en exclusividad.","Todos sus integrantes: sector público, privado y demandantes de empleo.","Los sindicatos y los orientadores laborales."], 
+"correct_answer":"Todos sus integrantes: sector público, privado y demandantes de empleo.", 
+"explanation":"La fuente indica explícitamente que el mercado de trabajo se gestiona por todos sus integrantes: sector público, privado y demandantes de empleo.", 
+"meta":{"original_question_number":2,"correct_letter":"C"}, 
+"correct_index":2 
+}, 
+{ 
+"id":"tema1_q3", 
+"type":"single_choice", 
+"question":"¿Qué impacto principal está teniendo la inteligencia artificial (IA) en el mercado laboral actual?", 
+"options":["Ha sido prohibida para evitar la destrucción de empleos tradicionales.","Está modificando puestos, creando nuevos y haciendo desaparecer otros.","Solo afecta a los trabajos de programación informática.","No tiene impacto real fuera del sector tecnológico."], 
+"correct_answer":"Está modificando puestos, creando nuevos y haciendo desaparecer otros.", 
+"explanation":"La fuente señala que la IA está modificando puestos de trabajo, creando nuevos y haciendo desaparecer otros que parecían imprescindibles.", 
+"meta":{"original_question_number":3,"correct_letter":"B"}, 
+"correct_index":1 
+}, 
+{ 
+"id":"tema1_q4", 
+"type":"single_choice", 
+"question":"¿Qué es el teletrabajo según la autoevaluación del tema?", 
+"options":["Trabajar exclusivamente en países extranjeros para empresas multinacionales.","Una modalidad que solo estuvo vigente durante el periodo de pandemia.","Trabajo realizado fuera de la empresa usando redes de telecomunicación para cumplir las cargas asignadas.","El proceso de búsqueda de empleo a través de portales de internet."], 
+"correct_answer":"Trabajo realizado fuera de la empresa usando redes de telecomunicación para cumplir las cargas asignadas.", 
+"explanation":"La fuente define el teletrabajo como aquel que se realiza desde un lugar fuera de la empresa utilizando redes de telecomunicación, aclarando que está vigente y en expansión.", 
+"meta":{"original_question_number":4,"correct_letter":"C"}, 
+"correct_index":2 
+}, 
+{ 
+"id":"tema1_q5", 
+"type":"single_choice", 
+"question":"¿Qué consecuencia social produjo la incorporación de avances tecnológicos al sector primario durante la Revolución Industrial?", 
+"options":["Un retorno masivo de la población a las zonas rurales para cultivar.","La desaparición total del concepto de puesto de trabajo.","Un éxodo desde las zonas rurales a la ciudad.","La prohibición del trabajo infantil en las fábricas."], 
+"correct_answer":"Un éxodo desde las zonas rurales a la ciudad.", 
+"explanation":"Según la fuente, el aumento de productividad en el sector primario generó exceso de mano de obra, lo que produjo un éxodo de las zonas rurales a la ciudad.", 
+"meta":{"original_question_number":5,"correct_letter":"C"}, 
+"correct_index":2 
+}, 
+{ 
+"id":"tema1_q6", 
+"type":"single_choice", 
+"question":"¿Cuál de estos profesionales es propio de la Primera Revolución Industrial?", 
+"options":["Ingenieros en robótica.","Especialistas en biotecnología.","Mineros.","Desarrolladores de machine learning."], 
+"correct_answer":"Mineros.", 
+"explanation":"La fuente clasifica a los mineros, operarios textiles y artesanos dentro de la Primera Revolución Industrial.", 
+"meta":{"original_question_number":6,"correct_letter":"C"}, 
+"correct_index":2 
+}, 
+{ 
+"id":"tema1_q7", 
+"type":"single_choice", 
+"question":"¿Qué ocupación surgió con la Segunda Revolución Industrial?", 
+"options":["Personal en logística y cadena de suministro.","Operarios en la industria automotriz.","Trabajadores del conocimiento.","Expertos en ciberseguridad."], 
+"correct_answer":"Operarios en la industria automotriz.", 
+"explanation":"La fuente lista a los operarios en la industria automotriz, eléctrica y química dentro de la Segunda Revolución Industrial.", 
+"meta":{"original_question_number":7,"correct_letter":"B"}, 
+"correct_index":1 
+}, 
+{ 
+"id":"tema1_q8", 
+"type":"single_choice", 
+"question":"¿A qué revolución industrial pertenecen los 'Trabajadores del conocimiento'?", 
+"options":["Segunda Revolución Industrial.","Primera Revolución Industrial.","Cuarta Revolución Industrial.","Tercera Revolución Industrial."], 
+"correct_answer":"Tercera Revolución Industrial.", 
+"explanation":"La fuente sitúa a los trabajadores del conocimiento y especialistas en biotecnología en la Tercera Revolución Industrial.", 
+"meta":{"original_question_number":8,"correct_letter":"D"}, 
+"correct_index":3 
+}, 
+{ 
+"id":"tema1_q9", 
+"type":"single_choice", 
+"question":"¿Cuál de los siguientes perfiles es característico de la Cuarta Revolución Industrial?", 
+"options":["Operarios textiles.","Artesanos.","Expertos en ciberseguridad.","Trabajadores en la industria del acero."], 
+"correct_answer":"Expertos en ciberseguridad.", 
+"explanation":"La fuente incluye a los expertos en ciberseguridad, ingenieros en robótica y desarrolladores de IA en la Cuarta Revolución Industrial.", 
+"meta":{"original_question_number":9,"correct_letter":"C"}, 
+"correct_index":2 
+}, 
+{ 
+"id":"tema1_q10", 
+"type":"single_choice", 
+"question":"Para buscar información legal sobre las salidas profesionales de un título de FP, ¿qué web recomienda el Ministerio?", 
+"options":["La web oficial de la Seguridad Social.","La página de TodoFP del Ministerio de Educación.","El portal de transparencia del Gobierno.","El buscador de Google Maps para empresas."], 
+"correct_answer":"La página de TodoFP del Ministerio de Educación.", 
+"explanation":"La fuente indica que los pasos para buscar información de cualquier ciclo comienzan en la web de TodoFP del Ministerio de Educación y Formación Profesional.", 
+"meta":{"original_question_number":10,"correct_letter":"B"}, 
+"correct_index":1 
+}, 
+{ 
+"id":"tema1_q11", 
+"type":"single_choice", 
+"question":"¿Qué son los nuevos yacimientos de empleo (NYE)?", 
+"options":["Puestos de trabajo que solo existen en el sector minero tradicional.","Actividades laborales que surgen por cambios sociales y tecnológicos que generan nuevas demandas.","Plazas de empleo público reservadas para menores de 30 años.","Sectores industriales que ya no están en evolución."], 
+"correct_answer":"Actividades laborales que surgen por cambios sociales y tecnológicos que generan nuevas demandas.", 
+"explanation":"La fuente define los NYE como actividades que surgen de cambios sociales y tecnológicos y generan nuevas demandas que necesitan ser cubiertas.", 
+"meta":{"original_question_number":11,"correct_letter":"B"}, 
+"correct_index":1 
+}, 
+{ 
+"id":"tema1_q12", 
+"type":"single_choice", 
+"question":"Dentro de las TIC como sector emergente, ¿qué perfil tiene una demanda en constante crecimiento?", 
+"options":["Operarios de montaje de piezas de metal.","Desarrolladores de software y especialistas en ciberseguridad.","Mineros de carbón vegetal.","Vendedores de prensa escrita."], 
+"correct_answer":"Desarrolladores de software y especialistas en ciberseguridad.", 
+"explanation":"La fuente menciona el desarrollo de software, análisis de datos y ciberseguridad como campos con demanda en constante crecimiento dentro de las TIC.", 
+"meta":{"original_question_number":12,"correct_letter":"B"}, 
+"correct_index":1 
+}, 
+{ 
+"id":"tema1_q13", 
+"type":"single_choice", 
+"question":"¿Qué tipo de empleos genera la transición hacia una economía sostenible en el sector de Energías Renovables?", 
+"options":["Diseño, instalación y mantenimiento de proyectos de biomasa y solar.","Fabricación de motores de combustión interna.","Extracción de combustibles fósiles en alta mar.","Gestión de residuos nucleares."], 
+"correct_answer":"Diseño, instalación y mantenimiento de proyectos de biomasa y solar.", 
+"explanation":"La fuente especifica que la transición sostenible genera empleos en diseño, instalación y mantenimiento en sectores como solar, eólica, biomasa, etc.", 
+"meta":{"original_question_number":13,"correct_letter":"A"}, 
+"correct_index":0 
+}, 
+{ 
+"id":"tema1_q14", 
+"type":"single_choice", 
+"question":"¿Qué expertos requiere el nuevo yacimiento de Economía Circular?", 
+"options":["Expertos en marketing de consumo rápido.","Especialistas en reciclaje, gestión de residuos y diseño ecoeficiente.","Técnicos en prospección petrolífera.","Ingenieros de minas a cielo abierto."], 
+"correct_answer":"Especialistas en reciclaje, gestión de residuos y diseño ecoeficiente.", 
+"explanation":"La fuente indica que la economía circular requiere expertos en reciclaje, gestión de residuos, diseño de productos ecoeficientes y logística inversa.", 
+"meta":{"original_question_number":14,"correct_letter":"B"}, 
+"correct_index":1 
+}, 
+{ 
+"id":"tema1_q15", 
+"type":"single_choice", 
+"question":"De acuerdo con la reflexión del tema 1, ¿de qué depende la evolución de los nuevos yacimientos de empleo?", 
+"options":["Exclusivamente del azar y la suerte de cada país.","De la localización geográfica, situación económica y avances tecnológicos.","Solo de la cantidad de dinero que invierta el sector privado.","De que no existan cambios en la distribución de la población."], 
+"correct_answer":"De la localización geográfica, situación económica y avances tecnológicos.", 
+"explanation":"La fuente afirma que los NYE dependen de la localización geográfica, la situación económica, la distribución de la población y los avances tecnológicos.", 
+"meta":{"original_question_number":15,"correct_letter":"B"}, 
+"correct_index":1 
+}, 
+{ 
+"id":"tema1_q16", 
+"type":"single_choice", 
+"question":"¿En qué temas clave trabaja el observatorio europeo Cedefop?", 
+"options":["En la regulación de los salarios mínimos de todos los países.","En empleo juvenil, integración de desempleados y educación y formación profesional (EFP).","En la construcción de infraestructuras para telecomunicaciones.","En el control de fronteras y movilidad turística."], 
+"correct_answer":"En empleo juvenil, integración de desempleados y educación y formación profesional (EFP).", 
+"explanation":"La fuente describe que Cedefop trabaja en empleo juvenil, integración de desempleados, EFP y efectos de la digitalización.", 
+"meta":{"original_question_number":16,"correct_letter":"B"}, 
+"correct_index":1 
+}, 
+{ 
+"id":"tema1_q17", 
+"type":"single_choice", 
+"question":"¿Qué ámbitos geográficos abarca el Observatorio de las Ocupaciones del SEPE?", 
+"options":["Solo el ámbito nacional o estatal.","Únicamente el ámbito europeo y mundial.","Estatal, autonómico, provincial y municipal.","Solo las capitales de provincia."], 
+"correct_answer":"Estatal, autonómico, provincial y municipal.", 
+"explanation":"La fuente especifica que el Observatorio de las Ocupaciones del SEPE realiza análisis en los ámbitos geográficos estatal, autonómico, provincial y municipal.", 
+"meta":{"original_question_number":17,"correct_letter":"C"}, 
+"correct_index":2 
+}, 
+{ 
+"id":"tema1_q18", 
+"type":"single_choice", 
+"question":"¿Cuál de estos es un observatorio específico del sector turístico mencionado en el material?", 
+"options":["Observatorio Nacional 5G.","Observatorio español del mercado del vino.","Fitur-Next Observatory.","Observatorio Permanente de la Inmigración."], 
+"correct_answer":"Fitur-Next Observatory.", 
+"explanation":"La fuente incluye al Fitur-Next Observatory como el específico para el Sector del Turismo.", 
+"meta":{"original_question_number":18,"correct_letter":"C"}, 
+"correct_index":2 
+}, 
+{ 
+"id":"tema1_q19", 
+"type":"single_choice", 
+"question":"¿Cuál es uno de los objetivos de la Formación Profesional según la unidad 1?", 
+"options":["Preparar a los alumnos para un trabajo estático que no cambie nunca.","Facilitar la adaptación a los cambios laborales a lo largo de la vida.","Asegurar un puesto de funcionario de forma automática al titularse.","Eliminar la necesidad de aprendizaje permanente."], 
+"correct_answer":"Facilitar la adaptación a los cambios laborales a lo largo de la vida.", 
+"explanation":"La fuente afirma que la FP facilita la adaptación a los cambios laborales que pueden producirse a lo largo de la vida y el aprendizaje permanente.", 
+"meta":{"original_question_number":19,"correct_letter":"B"}, 
+"correct_index":1 
+}, 
+{ 
+"id":"tema1_q20", 
+"type":"single_choice", 
+"question":"¿Cuál es el objetivo principal de la formación profesional?", 
+"options":["La obtención de títulos para decorar el currículum.","La inserción en el mercado laboral.","Competir con la formación universitaria en teoría pura.","Reducir el tiempo de ocio de los ciudadanos."], 
+"correct_answer":"La inserción en el mercado laboral.", 
+"explanation":"La fuente indica claramente: 'la formación profesional tiene como objetivo la inserción en el mercado laboral'.", 
+"meta":{"original_question_number":20,"correct_letter":"B"}, 
+"correct_index":1 
+}, 
+{ 
+"id":"tema1_q21", 
+"type":"single_choice", 
+"question":"¿Qué dos grandes posibilidades existen si quieres trabajar tras el ciclo?", 
+"options":["Trabajo voluntario o trabajo remunerado.","Por cuenta ajena o creación de propia empresa (autoempleo).","Solo en el sector público.","Únicamente en empresas internacionales."], 
+"correct_answer":"Por cuenta ajena o creación de propia empresa (autoempleo).", 
+"explanation":"La fuente explica que si quieres trabajar puedes hacerlo por cuenta ajena (empresa pública o privada) o crear tu propia empresa (autoempleo).", 
+"meta":{"original_question_number":21,"correct_letter":"B"}, 
+"correct_index":1 
+}, 
+{ 
+"id":"tema1_q22", 
+"type":"single_choice", 
+"question":"Si un titulado de FP decide seguir estudiando, ¿qué opciones tiene?", 
+"options":["Solo puede repetir el mismo ciclo.","Realizar otro ciclo (medio/superior) o cursos de especialización.","Debe abandonar la FP y pasar obligatoriamente a bachillerato.","No existen opciones formativas regladas tras la FP."], 
+"correct_answer":"Realizar otro ciclo (medio/superior) o cursos de especialización.", 
+"explanation":"La fuente señala opciones como optar por otro ciclo de FP (grado medio o superior) o realizar cursos de especialización.", 
+"meta":{"original_question_number":22,"correct_letter":"B"}, 
+"correct_index":1 
+}, 
+{ 
+"id":"tema1_q23", 
+"type":"single_choice", 
+"question":"¿Cuál debe ser el primer paso antes de buscar empleo para un Técnico de FP?", 
+"options":["Enviar el currículum a todas las empresas del país.","Analizar el sector productivo del ciclo elegido y los puestos que puede ejercer.","Pedir una cita con el alcalde de su municipio.","Inscribirse en una carrera universitaria directamente."], 
+"correct_answer":"Analizar el sector productivo del ciclo elegido y los puestos que puede ejercer.", 
+"explanation":"La fuente dice que el primer paso es analizar el sector productivo del ciclo elegido y tener presentes los puestos que puedes ejercer.", 
+"meta":{"original_question_number":23,"correct_letter":"B"}, 
+"correct_index":1 
+}, 
+{ 
+"id":"tema1_q24", 
+"type":"single_choice", 
+"question":"¿Qué valora especialmente el sector privado de los programas de FP?", 
+"options":["La cantidad de horas de teoría pura memorizada.","La formación técnica y práctica que ofrecen.","Que el alumno no tenga experiencia previa.","La capacidad de trabajar sin cobrar salario."], 
+"correct_answer":"La formación técnica y práctica que ofrecen.", 
+"explanation":"La fuente destaca que 'las empresas valoran la formación técnica y práctica que ofrecen los programas de FP'.", 
+"meta":{"original_question_number":24,"correct_letter":"B"}, 
+"correct_index":1 
+}, 
+{ 
+"id":"tema1_q25", 
+"type":"single_choice", 
+"question":"¿Por qué es importante aprovechar las redes de contactos según el material?", 
+"options":["Porque es obligatorio por ley estar en una red social.","Porque a menudo muchas vacantes no se publican y se cubren por recomendaciones.","Para evitar tener que hacer una entrevista de trabajo formal.","Para que los familiares te paguen el salario."], 
+"correct_answer":"Porque a menudo muchas vacantes no se publican y se cubren por recomendaciones.", 
+"explanation":"La fuente indica que es importante porque muchas vacantes no se publican y se cubren a través de recomendaciones y referencias.", 
+"meta":{"original_question_number":25,"correct_letter":"B"}, 
+"correct_index":1 
+}, 
+{ 
+"id":"tema1_q26", 
+"type":"single_choice", 
+"question":"¿Para qué sirve obtener certificaciones adicionales o formación complementaria?", 
+"options":["Para invalidar el título de FP obtenido.","Para aumentar las habilidades y el atractivo para los empleadores del sector privado.","Solo para trabajar en el sector público.","No tiene ninguna utilidad real en el mercado."], 
+"correct_answer":"Para aumentar las habilidades y el atractivo para los empleadores del sector privado.", 
+"explanation":"La fuente sugiere considerar certificaciones adicionales para aumentar las habilidades y el atractivo ante los empleadores.", 
+"meta":{"original_question_number":26,"correct_letter":"B"}, 
+"correct_index":1 
+}, 
+{ 
+"id":"tema1_q27", 
+"type":"single_choice", 
+"question":"¿A través de qué medio se cubren la mayoría de los puestos en la función pública?", 
+"options":["Contratación directa por llamada telefónica privada.","Convocatorias públicas anunciadas por las administraciones.","Recomendaciones exclusivas de familiares.","Anuncios en redes sociales de ocio."], 
+"correct_answer":"Convocatorias públicas anunciadas por las administraciones.", 
+"explanation":"La fuente afirma que la mayoría de los puestos en la función pública se cubren a través de convocatorias públicas anunciadas por administraciones estatal, autonómica o local.", 
+"meta":{"original_question_number":27,"correct_letter":"B"}, 
+"correct_index":1 
+}, 
+{ 
+"id":"tema1_q28", 
+"type":"single_choice", 
+"question":"¿Cuál es un requisito básico común para acceder al sector público en España?", 
+"options":["Tener menos de 25 años.","Ser mayor de edad y tener nacionalidad española o de un país miembro de la UE.","Haber trabajado previamente 10 años en el sector privado.","No poseer ningún título académico oficial."], 
+"correct_answer":"Ser mayor de edad y tener nacionalidad española o de un país miembro de la UE.", 
+"explanation":"La fuente lista requisitos como ser mayor de edad, nacionalidad española o UE, pleno ejercicio de derechos civiles, etc.", 
+"meta":{"original_question_number":28,"correct_letter":"B"}, 
+"correct_index":1 
+}, 
+{ 
+"id":"tema1_q29", 
+"type":"single_choice", 
+"question":"¿Qué incluye generalmente un proceso de oposición?", 
+"options":["Solo una entrevista personal informal.","Pruebas teóricas, prácticas y de méritos.","Un sorteo ante notario.","La entrega de un currículum sin más pruebas."], 
+"correct_answer":"Pruebas teóricas, prácticas y de méritos.", 
+"explanation":"La fuente define que el proceso de oposición generalmente incluye pruebas teóricas, prácticas y de méritos.", 
+"meta":{"original_question_number":29,"correct_letter":"B"}, 
+"correct_index":1 
+}, 
+{ 
+"id":"tema1_q30", 
+"type":"single_choice", 
+"question":"¿Para qué sirven las bolsas de trabajo en la administración pública?", 
+"options":["Para ofrecer plazas fijas de por vida sin examen.","Para cubrir puestos de manera temporal o interina.","Para gestionar los viajes de los funcionarios.","Para vender material de oficina a la administración."], 
+"correct_answer":"Para cubrir puestos de manera temporal o interina.", 
+"explanation":"La fuente explica que algunas administraciones usan bolsas de trabajo para cubrir puestos de manera temporal o interina.", 
+"meta":{"original_question_number":30,"correct_letter":"B"}, 
+"correct_index":1 
+}, 
+{ 
+"id":"tema1_q31", 
+"type":"single_choice", 
+"question":"¿Qué es FP Conecta?", 
+"options":["Un nuevo tipo de contrato para prácticas.","Una herramienta online para conectar a la comunidad vinculada a la Formación Profesional.","El servicio de internet gratuito de los centros de FP.","Una aplicación para que los alumnos chateen sobre temas de ocio."], 
+"correct_answer":"Una herramienta online para conectar a la comunidad vinculada a la Formación Profesional.", 
+"explanation":"La fuente define FP Conecta como un canal de comunicación para profesorado, alumnado, titulados, centros, empresas y administraciones.", 
+"meta":{"original_question_number":31,"correct_letter":"B"}, 
+"correct_index":1 
+}, 
+{ 
+"id":"tema1_q32", 
+"type":"single_choice", 
+"question":"¿Cómo se agrupan los funcionarios públicos según el EBEP atendiendo al puesto de trabajo?", 
+"options":["Escalas.","Grupos.","Cuerpos.","Niveles."], 
+"correct_answer":"Cuerpos.", 
+"explanation":"La fuente define los Cuerpos como la agrupación según el puesto de trabajo (ej: inspectores, administrativos).", 
+"meta":{"original_question_number":32,"correct_letter":"C"}, 
+"correct_index":2 
+}, 
+{ 
+"id":"tema1_q33", 
+"type":"single_choice", 
+"question":"En el sector público, ¿qué determina la 'Escala'?", 
+"options":["El sueldo base exacto.","La titulación requerida (bachiller, estudios universitarios...).","El número de años de experiencia.","La comunidad autónoma de destino."], 
+"correct_answer":"La titulación requerida (bachiller, estudios universitarios...).", 
+"explanation":"La fuente indica que las Escalas son según la titulación requerida.", 
+"meta":{"original_question_number":33,"correct_letter":"B"}, 
+"correct_index":1 
+}, 
+{ 
+"id":"tema1_q34", 
+"type":"single_choice", 
+"question":"¿A qué grupos se adscriben los cuerpos y escalas de funcionarios?", 
+"options":["Grupo 1, 2 y 3.","Grupos A, B, C y E.","Solo grupo A1 y A2.","Nivel inicial, medio y superior."], 
+"correct_answer":"Grupos A, B, C y E.", 
+"explanation":"La fuente especifica que se adscriben a los grupos A (A1, A2), B, C (C1, C2) y E.", 
+"meta":{"original_question_number":34,"correct_letter":"B"}, 
+"correct_index":1 
+}, 
+{ 
+"id":"tema1_q35", 
+"type":"single_choice", 
+"question":"¿Cuál es el objetivo principal del sector privado frente al público?", 
+"options":["Prestar servicios a la sociedad únicamente.","El ánimo de lucro y beneficio para los propietarios.","Garantizar la educación y salud universal.","No tener estructura organizativa."], 
+"correct_answer":"El ánimo de lucro y beneficio para los propietarios.", 
+"explanation":"La fuente explica que en el sector privado el objetivo principal es el ánimo de lucro, mientras el público se centra en servicios a la sociedad.", 
+"meta":{"original_question_number":35,"correct_letter":"B"}, 
+"correct_index":1 
+}, 
+{ 
+"id":"tema1_q36", 
+"type":"single_choice", 
+"question":"¿Qué norma regula las relaciones laborales en el sector privado?", 
+"options":["El Estatuto Básico del Empleado Público.","El Código de Comercio únicamente.","El Estatuto de los Trabajadores (RDL 2/2015).","La Ley de Procedimiento Administrativo."], 
+"correct_answer":"El Estatuto de los Trabajadores (RDL 2/2015).", 
+"explanation":"La fuente aclara en su autoevaluación que las relaciones laborales en el sector privado están reguladas por el Estatuto de los Trabajadores.", 
+"meta":{"original_question_number":36,"correct_letter":"C"}, 
+"correct_index":2 
+}, 
+{ 
+"id":"tema1_q37", 
+"type":"single_choice", 
+"question":"¿Qué alternativa existe al trabajo por cuenta ajena según la unidad?", 
+"options":["El desempleo permanente.","El autoempleo, montando tu propia empresa.","Trabajar sin cobrar para ganar experiencia.","No trabajar y solo estudiar."], 
+"correct_answer":"El autoempleo, montando tu propia empresa.", 
+"explanation":"La fuente define el autoempleo como la alternativa de montar tu propia empresa u organizarte como emprendedor.", 
+"meta":{"original_question_number":37,"correct_letter":"B"}, 
+"correct_index":1 
+}, 
+{ 
+"id":"tema1_q38", 
+"type":"single_choice", 
+"question":"¿Qué capacidad es necesaria para el éxito de un proyecto de autoempleo?", 
+"options":["Esperar a que otros tomen las decisiones por ti.","Iniciativa, liderazgo y capacidad de autoorganización.","No tener conocimientos de gestión.","Evitar cualquier tipo de presión laboral."], 
+"correct_answer":"Iniciativa, liderazgo y capacidad de autoorganización.", 
+"explanation":"La fuente destaca la necesidad de tener iniciativa, liderazgo, resistencia a la presión, capacidad de trabajo y autoorganización.", 
+"meta":{"original_question_number":38,"correct_letter":"B"}, 
+"correct_index":1 
+}, 
+{ 
+"id":"tema1_q39", 
+"type":"single_choice", 
+"question":"¿Es siempre necesario un gran capital inicial para establecerse?", 
+"options":["Sí, mínimo 100.000 euros.","No, la ley permite establecerse con un capital mínimo de un euro actualmente.","Solo si se trata de una empresa pública.","No hace falta ningún capital, ni siquiera un euro."], 
+"correct_answer":"No, la ley permite establecerse con un capital mínimo de un euro actualmente.", 
+"explanation":"La fuente indica que el capital inicial no supone un gran desembolso si se gestiona bien, citando que la ley permite establecerse con un euro.", 
+"meta":{"original_question_number":39,"correct_letter":"B"}, 
+"correct_index":1 
+}, 
+{ 
+"id":"tema1_q40", 
+"type":"single_choice", 
+"question":"¿Qué fórmulas pueden hacer más llevadero el coste individual del capital en el autoempleo?", 
+"options":["Pedir dinero a fondo perdido sin devolverlo.","La constitución de cooperativas o sociedades limitadas.","No comprar ningún equipo de trabajo.","Trabajar solo desde casa sin internet."], 
+"correct_answer":"La constitución de cooperativas o sociedades limitadas.", 
+"explanation":"La fuente menciona que existen fórmulas como la constitución de cooperativas o sociedades limitadas para hacer el coste más llevadero.", 
+"meta":{"original_question_number":40,"correct_letter":"B"}, 
+"correct_index":1 
+}, 
+{ 
+"id":"tema1_q41", 
+"type":"single_choice", 
+"question":"En el trabajo por cuenta ajena, ¿quién establece la jornada y el salario?", 
+"options":["El propio trabajador libremente cada día.","El empresario de acuerdo con el convenio colectivo aplicable.","El sindicato mayoritario sin consultar a la empresa.","El Ministerio de Educación directamente."], 
+"correct_answer":"El empresario de acuerdo con el convenio colectivo aplicable.", 
+"explanation":"La fuente explica que es el empresario quien establece la jornada y salario de acuerdo con lo establecido en el convenio colectivo.", 
+"meta":{"original_question_number":41,"correct_letter":"B"}, 
+"correct_index":1 
+}, 
+{ 
+"id":"tema1_q42", 
+"type":"single_choice", 
+"question":"¿Tiene derecho a paro un trabajador por cuenta ajena despedido?", 
+"options":["No, nunca tiene derecho a prestación.","Sí, si cumple los requisitos (como haber trabajado mínimo un año).","Solo si el despido es por jubilación del jefe.","Sí, aunque no haya trabajado nunca."], 
+"correct_answer":"Sí, si cumple los requisitos (como haber trabajado mínimo un año).", 
+"explanation":"La fuente confirma que si el trabajador es despedido tiene derecho a paro siempre que hubiera trabajado mínimo un año y cumpla los requisitos.", 
+"meta":{"original_question_number":42,"correct_letter":"B"}, 
+"correct_index":1 
+}, 
+{ 
+"id":"tema1_q43", 
+"type":"single_choice", 
+"question":"¿De qué se componen las competencias clave?", 
+"options":["Solo de títulos académicos universitarios.","De conocimientos, capacidades y actitudes adaptadas al mundo real.","Únicamente de la capacidad de hablar idiomas.","De la fuerza física para realizar tareas manuales."], 
+"correct_answer":"De conocimientos, capacidades y actitudes adaptadas al mundo real.", 
+"explanation":"La fuente define que las competencias clave dotan a la persona de conocimientos, capacidades y actitudes adaptadas al mundo real.", 
+"meta":{"original_question_number":43,"correct_letter":"B"}, 
+"correct_index":1 
+}, 
+{ 
+"id":"tema1_q44", 
+"type":"single_choice", 
+"question":"¿En qué tres premisas se basan las competencias?", 
+"options":["Leer + Escribir + Contar.","Saber + Saber hacer + Saber estar.","Ganar + Gastar + Ahorrar.","Mandar + Obedecer + Ejecutar."], 
+"correct_answer":"Saber + Saber hacer + Saber estar.", 
+"explanation":"La fuente afirma explícitamente que las competencias se basan en tres premisas: Saber + Saber hacer + Saber estar.", 
+"meta":{"original_question_number":44,"correct_letter":"B"}, 
+"correct_index":1 
+}, 
+{ 
+"id":"tema1_q45", 
+"type":"single_choice", 
+"question":"¿Cómo podemos diferenciar entre habilidad y competencia según el material?", 
+"options":["No hay diferencia, son sinónimos exactos.","Si hacemos la tarea buscando mejora y resultado óptimo es competencia; si solo la realizamos es habilidad.","La competencia se compra y la habilidad se nace con ella.","La habilidad es para el sector público y la competencia para el privado."], 
+"correct_answer":"Si hacemos la tarea buscando mejora y resultado óptimo es competencia; si solo la realizamos es habilidad.", 
+"explanation":"La fuente explica que si la tarea se hace considerando su relevancia y buscando un resultado óptimo es competencia, si simplemente se realiza es habilidad.", 
+"meta":{"original_question_number":45,"correct_letter":"B"}, 
+"correct_index":1 
+}, 
+{ 
+"id":"tema1_q46", 
+"type":"single_choice", 
+"question":"¿Qué son las habilidades duras o 'hard skills'?", 
+"options":["Cualidades innatas que no se pueden aprender.","Habilidades técnicas cuantificables aprendidas por formación o experiencia.","Atributos personales relacionados con la simpatía.","La capacidad física de levantar objetos pesados."], 
+"correct_answer":"Habilidades técnicas cuantificables aprendidas por formación o experiencia.", 
+"explanation":"La fuente las define como habilidades técnicas cuantificables que se aprenden a través de educación, formación o experiencia laboral.", 
+"meta":{"original_question_number":46,"correct_letter":"B"}, 
+"correct_index":1 
+}, 
+{ 
+"id":"tema1_q47", 
+"type":"single_choice", 
+"question":"¿Cuál de los siguientes es un ejemplo de 'hard skill'?", 
+"options":["Empatía.","Trabajo en equipo.","Idiomas extranjeros.","Resiliencia."], 
+"correct_answer":"Idiomas extranjeros.", 
+"explanation":"La fuente clasifica los idiomas extranjeros, ciberseguridad y programación como 'hard skills'.", 
+"meta":{"original_question_number":47,"correct_letter":"C"}, 
+"correct_index":2 
+}, 
+{ 
+"id":"tema1_q48", 
+"type":"single_choice", 
+"question":"¿Qué define a las habilidades blandas o 'soft skills'?", 
+"options":["Son conocimientos de software muy avanzado.","Atributos personales esenciales para el éxito laboral e interacción social.","Habilidades que solo tienen los jefes.","Conocimientos técnicos difíciles de demostrar."], 
+"correct_answer":"Atributos personales esenciales para el éxito laboral e interacción social.", 
+"explanation":"La fuente indica que son atributos personales esenciales para el éxito en el entorno laboral y en la interacción con otras personas.", 
+"meta":{"original_question_number":48,"correct_letter":"B"}, 
+"correct_index":1 
+}, 
+{ 
+"id":"tema1_q49", 
+"type":"single_choice", 
+"question":"¿Cuál de estas es una 'soft skill' según la clasificación del tema?", 
+"options":["Análisis de datos.","Marketing SEO.","Adaptabilidad.","Blockchain."], 
+"correct_answer":"Adaptabilidad.", 
+"explanation":"La fuente clasifica la adaptabilidad, confianza, empatía y liderazgo como 'soft skills'.", 
+"meta":{"original_question_number":49,"correct_letter":"C"}, 
+"correct_index":2 
+}, 
+{ 
+"id":"tema1_q50", 
+"type":"single_choice", 
+"question":"¿Qué significa tener resiliencia en el ámbito laboral?", 
+"options":["Capacidad de mandar sobre todos los compañeros.","Capacidad de recuperarse de la adversidad y mantener una actitud positiva.","Habilidad para usar herramientas de oficina muy antiguas.","Conocimiento de leyes internacionales de comercio."], 
+"correct_answer":"Capacidad de recuperarse de la adversidad y mantener una actitud positiva.", 
+"explanation":"La fuente define la resiliencia como ser capaz de recuperarse rápidamente de la adversidad y mantener una actitud positiva.", 
+"meta":{"original_question_number":50,"correct_letter":"B"}, 
+"correct_index":1 
+} 
+
+
+
+
+
+]
+}
